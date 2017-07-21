@@ -1,0 +1,424 @@
+{
+    "index": "DIV1500567295.48", 
+    "top": 0, 
+    "id": "", 
+    "width": 1108, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 4, 
+            "id": "", 
+            "width": 115, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 4, 
+                    "id": "", 
+                    "width": 115, 
+                    "tag": "IMG", 
+                    "leaves": [], 
+                    "height": 50, 
+                    "class": "", 
+                    "left": 0
+                }
+            ], 
+            "height": 50, 
+            "class": "logo", 
+            "left": 0
+        }, 
+        {
+            "top": 15, 
+            "id": "", 
+            "width": 56, 
+            "tag": "UL", 
+            "leaves": [
+                {
+                    "top": 15, 
+                    "id": "", 
+                    "width": 44, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 15, 
+                            "id": "loginBtn", 
+                            "width": 44, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 28, 
+                            "class": "res-logn-ico", 
+                            "left": 1054
+                        }
+                    ], 
+                    "height": 28, 
+                    "class": "", 
+                    "left": 1054
+                }
+            ], 
+            "height": 28, 
+            "class": "top-bar", 
+            "left": 1042
+        }, 
+        {
+            "top": 54, 
+            "id": "", 
+            "width": 713, 
+            "tag": "UL", 
+            "leaves": [
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 28, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "", 
+                            "width": 26, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 37, 
+                            "class": "", 
+                            "left": 121
+                        }
+                    ], 
+                    "height": 39, 
+                    "class": "cur", 
+                    "left": 120
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 28, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "sogou_news", 
+                            "width": 26, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 37, 
+                            "class": "", 
+                            "left": 174
+                        }
+                    ], 
+                    "height": 37, 
+                    "class": "", 
+                    "left": 173
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 28, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "sogou_weixin", 
+                            "width": 26, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 37, 
+                            "class": "", 
+                            "left": 227
+                        }
+                    ], 
+                    "height": 37, 
+                    "class": "", 
+                    "left": 226
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 28, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "sogou_zhihu", 
+                            "width": 26, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 37, 
+                            "class": "", 
+                            "left": 280
+                        }
+                    ], 
+                    "height": 37, 
+                    "class": "", 
+                    "left": 279
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 28, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "sogou_pic", 
+                            "width": 26, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 37, 
+                            "class": "", 
+                            "left": 333
+                        }
+                    ], 
+                    "height": 37, 
+                    "class": "", 
+                    "left": 332
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 28, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "sogou_video", 
+                            "width": 26, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 37, 
+                            "class": "", 
+                            "left": 386
+                        }
+                    ], 
+                    "height": 37, 
+                    "class": "", 
+                    "left": 385
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 28, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "sogou_mingyi", 
+                            "width": 26, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 37, 
+                            "class": "", 
+                            "left": 439
+                        }
+                    ], 
+                    "height": 37, 
+                    "class": "", 
+                    "left": 438
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 28, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "sogou_overseas", 
+                            "width": 26, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 37, 
+                            "class": "", 
+                            "left": 492
+                        }
+                    ], 
+                    "height": 37, 
+                    "class": "", 
+                    "left": 491
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 28, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "result_more_wenwen_ABC", 
+                            "width": 26, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 37, 
+                            "class": "", 
+                            "left": 545
+                        }
+                    ], 
+                    "height": 37, 
+                    "class": "", 
+                    "left": 544
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 28, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "sogou_scholar", 
+                            "width": 26, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 37, 
+                            "class": "", 
+                            "left": 598
+                        }
+                    ], 
+                    "height": 37, 
+                    "class": "", 
+                    "left": 597
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 51, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 54, 
+                            "id": "searchnav-more", 
+                            "width": 49, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 70, 
+                                    "id": "", 
+                                    "width": 8, 
+                                    "tag": "I", 
+                                    "leaves": [], 
+                                    "height": 4, 
+                                    "class": "arrow-down", 
+                                    "left": 681
+                                }
+                            ], 
+                            "height": 37, 
+                            "class": "more-btn", 
+                            "left": 651
+                        }
+                    ], 
+                    "height": 37, 
+                    "class": "navMore", 
+                    "left": 650
+                }
+            ], 
+            "height": 39, 
+            "class": "searchnav", 
+            "left": 0
+        }, 
+        {
+            "top": 12, 
+            "id": "searchForm", 
+            "width": 1108, 
+            "tag": "FORM", 
+            "leaves": [
+                {
+                    "top": 12, 
+                    "id": "", 
+                    "width": 993, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 12, 
+                            "id": "", 
+                            "width": 556, 
+                            "tag": "DIV", 
+                            "leaves": [
+                                {
+                                    "top": 12, 
+                                    "id": "", 
+                                    "width": 555, 
+                                    "tag": "DIV", 
+                                    "leaves": [
+                                        {
+                                            "top": 12, 
+                                            "id": "upquery", 
+                                            "width": 517, 
+                                            "tag": "INPUT", 
+                                            "leaves": [], 
+                                            "height": 30, 
+                                            "class": "query", 
+                                            "left": 115
+                                        }, 
+                                        {
+                                            "top": 20, 
+                                            "id": "top_qreset", 
+                                            "width": 16, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 16, 
+                                            "class": "qreset2", 
+                                            "left": 645
+                                        }
+                                    ], 
+                                    "height": 32, 
+                                    "class": "qborder2", 
+                                    "left": 115
+                                }
+                            ], 
+                            "height": 34, 
+                            "class": "qborder", 
+                            "left": 115
+                        }, 
+                        {
+                            "top": 12, 
+                            "id": "searchBtn", 
+                            "width": 100, 
+                            "tag": "INPUT", 
+                            "leaves": [], 
+                            "height": 34, 
+                            "class": "sbtn1", 
+                            "left": 671
+                        }, 
+                        {
+                            "top": 12, 
+                            "id": "", 
+                            "width": 60, 
+                            "tag": "DIV", 
+                            "leaves": [
+                                {
+                                    "top": 12, 
+                                    "id": "", 
+                                    "width": 60, 
+                                    "tag": "A", 
+                                    "leaves": [
+                                        {
+                                            "top": 27, 
+                                            "id": "", 
+                                            "width": 8, 
+                                            "tag": "I", 
+                                            "leaves": [], 
+                                            "height": 4, 
+                                            "class": "arrow-down", 
+                                            "left": 848
+                                        }
+                                    ], 
+                                    "height": 34, 
+                                    "class": "all-time", 
+                                    "left": 796
+                                }
+                            ], 
+                            "height": 34, 
+                            "class": "term", 
+                            "left": 796
+                        }
+                    ], 
+                    "height": 34, 
+                    "class": "querybox", 
+                    "left": 115
+                }
+            ], 
+            "height": 34, 
+            "class": "", 
+            "left": 0
+        }
+    ], 
+    "height": 93, 
+    "class": "header", 
+    "left": 0
+}

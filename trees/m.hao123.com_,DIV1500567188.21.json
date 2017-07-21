@@ -1,0 +1,127 @@
+{
+    "index": "DIV1500567188.21", 
+    "top": 942, 
+    "height": 110, 
+    "width": 330, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 942, 
+            "height": 110, 
+            "width": 990, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 942, 
+                    "height": 110, 
+                    "width": 330, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 942, 
+                            "height": 110, 
+                            "width": 330, 
+                            "tag": "IMG", 
+                            "leaves": [], 
+                            "left": 1095
+                        }, 
+                        {
+                            "top": 1020, 
+                            "height": 32, 
+                            "width": 330, 
+                            "tag": "P", 
+                            "leaves": [], 
+                            "left": 1095
+                        }
+                    ], 
+                    "left": 1095
+                }, 
+                {
+                    "top": 942, 
+                    "height": 110, 
+                    "width": 330, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 942, 
+                            "height": 110, 
+                            "width": 330, 
+                            "tag": "IMG", 
+                            "leaves": [], 
+                            "left": 1425
+                        }, 
+                        {
+                            "top": 1020, 
+                            "height": 32, 
+                            "width": 330, 
+                            "tag": "P", 
+                            "leaves": [], 
+                            "left": 1425
+                        }
+                    ], 
+                    "left": 1425
+                }, 
+                {
+                    "top": 942, 
+                    "height": 110, 
+                    "width": 330, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 942, 
+                            "height": 110, 
+                            "width": 330, 
+                            "tag": "IMG", 
+                            "leaves": [], 
+                            "left": 1755
+                        }, 
+                        {
+                            "top": 1020, 
+                            "height": 32, 
+                            "width": 330, 
+                            "tag": "P", 
+                            "leaves": [], 
+                            "left": 1755
+                        }
+                    ], 
+                    "left": 1755
+                }
+            ], 
+            "left": 1095
+        }, 
+        {
+            "top": 1020, 
+            "height": 21, 
+            "width": 36, 
+            "tag": "UL", 
+            "leaves": [
+                {
+                    "top": 1029, 
+                    "height": 8, 
+                    "width": 8, 
+                    "tag": "LI", 
+                    "leaves": [], 
+                    "left": 1375
+                }, 
+                {
+                    "top": 1029, 
+                    "height": 8, 
+                    "width": 8, 
+                    "tag": "LI", 
+                    "leaves": [], 
+                    "left": 1387
+                }, 
+                {
+                    "top": 1029, 
+                    "height": 8, 
+                    "width": 8, 
+                    "tag": "LI", 
+                    "leaves": [], 
+                    "left": 1399
+                }
+            ], 
+            "left": 1373
+        }
+    ], 
+    "left": 1095
+}

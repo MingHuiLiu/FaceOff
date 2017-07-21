@@ -1,0 +1,43 @@
+{
+    "index": "P1500567179.72", 
+    "top": 85, 
+    "height": 18, 
+    "width": 244, 
+    "tag": "P", 
+    "leaves": [
+        {
+            "top": 88, 
+            "height": 12, 
+            "width": 66, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 116
+        }, 
+        {
+            "top": 88, 
+            "height": 12, 
+            "width": 45, 
+            "tag": "SPAN", 
+            "leaves": [
+                {
+                    "top": 88, 
+                    "height": 12, 
+                    "width": 33, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "left": 191
+                }
+            ], 
+            "left": 191
+        }, 
+        {
+            "top": 88, 
+            "height": 12, 
+            "width": 17, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 252
+        }
+    ], 
+    "left": 116
+}

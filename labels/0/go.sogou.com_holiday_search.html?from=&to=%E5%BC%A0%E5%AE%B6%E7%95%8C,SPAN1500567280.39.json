@@ -1,0 +1,32 @@
+{
+    "index": "SPAN1500567280.39", 
+    "top": 80, 
+    "id": "", 
+    "width": 75, 
+    "tag": "SPAN", 
+    "leaves": [
+        {
+            "top": 82, 
+            "id": "", 
+            "width": 22, 
+            "tag": "I", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "icon_pub icon", 
+            "left": 548
+        }, 
+        {
+            "top": 80, 
+            "id": "", 
+            "width": 48, 
+            "tag": "STRONG", 
+            "leaves": [], 
+            "height": 30, 
+            "class": "", 
+            "left": 575
+        }
+    ], 
+    "height": 30, 
+    "class": "cf bus", 
+    "left": 548
+}

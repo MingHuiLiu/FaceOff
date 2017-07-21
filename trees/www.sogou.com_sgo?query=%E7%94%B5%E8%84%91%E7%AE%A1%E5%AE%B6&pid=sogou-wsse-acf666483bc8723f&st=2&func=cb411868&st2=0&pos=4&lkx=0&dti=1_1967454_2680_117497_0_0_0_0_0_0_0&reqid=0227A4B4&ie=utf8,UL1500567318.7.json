@@ -1,0 +1,117 @@
+{
+    "index": "UL1500567318.7", 
+    "top": 556, 
+    "id": "", 
+    "width": 550, 
+    "tag": "UL", 
+    "leaves": [
+        {
+            "top": 556, 
+            "id": "", 
+            "width": 59, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 556, 
+                    "id": "sogou_vr_70010902_new1117-tab-win_1", 
+                    "width": 59, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 121
+                }
+            ], 
+            "height": 32, 
+            "class": "cur", 
+            "left": 121
+        }, 
+        {
+            "top": 556, 
+            "id": "", 
+            "width": 59, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 556, 
+                    "id": "sogou_vr_70010902_new1117-tab-And_1", 
+                    "width": 59, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 180
+                }
+            ], 
+            "height": 32, 
+            "class": "", 
+            "left": 180
+        }, 
+        {
+            "top": 556, 
+            "id": "", 
+            "width": 73, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 556, 
+                    "id": "sogou_vr_70010902_new1117-tab-IOS_1", 
+                    "width": 73, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 239
+                }
+            ], 
+            "height": 32, 
+            "class": "", 
+            "left": 239
+        }, 
+        {
+            "top": 556, 
+            "id": "", 
+            "width": 58, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 556, 
+                    "id": "sogou_vr_70010902_new1117-tab-MAC_1", 
+                    "width": 58, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 312
+                }
+            ], 
+            "height": 32, 
+            "class": "", 
+            "left": 312
+        }, 
+        {
+            "top": 556, 
+            "id": "", 
+            "width": 59, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 556, 
+                    "id": "sogou_vr_70010902_new1117-tab-IPAD_1", 
+                    "width": 59, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 370
+                }
+            ], 
+            "height": 32, 
+            "class": "", 
+            "left": 370
+        }
+    ], 
+    "height": 32, 
+    "class": "tab-vr-lis js_tabTitle", 
+    "left": 121
+}

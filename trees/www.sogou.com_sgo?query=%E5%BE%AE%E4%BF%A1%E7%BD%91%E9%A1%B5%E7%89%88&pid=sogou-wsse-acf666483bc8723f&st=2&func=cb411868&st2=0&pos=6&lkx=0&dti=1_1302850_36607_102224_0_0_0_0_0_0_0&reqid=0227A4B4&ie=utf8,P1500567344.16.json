@@ -1,0 +1,52 @@
+{
+    "index": "P1500567344.16", 
+    "top": 723, 
+    "id": "", 
+    "width": 416, 
+    "tag": "P", 
+    "leaves": [
+        {
+            "top": 726, 
+            "id": "", 
+            "width": 27, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 495
+        }, 
+        {
+            "top": 726, 
+            "id": "", 
+            "width": 27, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 632
+        }, 
+        {
+            "top": 746, 
+            "id": "", 
+            "width": 27, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 496
+        }, 
+        {
+            "top": 746, 
+            "id": "", 
+            "width": 27, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 561
+        }
+    ], 
+    "height": 62, 
+    "class": "str_info", 
+    "left": 255
+}

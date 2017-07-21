@@ -1,0 +1,63 @@
+{
+    "index": "DIV1500567329.04", 
+    "top": 2703, 
+    "id": "", 
+    "width": 436, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 2705, 
+            "id": "ad_leftresult_link_0_0", 
+            "width": 91, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 2705, 
+                    "id": "", 
+                    "width": 52, 
+                    "tag": "EM", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 264
+                }
+            ], 
+            "height": 15, 
+            "class": "", 
+            "left": 225
+        }, 
+        {
+            "top": 2705, 
+            "id": "ad_leftresult_link_1_0", 
+            "width": 65, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 336
+        }, 
+        {
+            "top": 2705, 
+            "id": "ad_leftresult_link_2_0", 
+            "width": 78, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 421
+        }, 
+        {
+            "top": 2703, 
+            "id": "", 
+            "width": 436, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "biz_title_fill", 
+            "left": 519
+        }
+    ], 
+    "height": 20, 
+    "class": "biz_substr biz_substr_m5", 
+    "left": 225
+}

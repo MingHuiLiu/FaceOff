@@ -1,0 +1,53 @@
+{
+    "index": "DIV1500567294.27", 
+    "top": 712, 
+    "id": "", 
+    "width": 330, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 712, 
+            "id": "", 
+            "width": 260, 
+            "tag": "P", 
+            "leaves": [
+                {
+                    "top": 712, 
+                    "id": "", 
+                    "width": 58, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 46, 
+                    "class": "", 
+                    "left": 15
+                }
+            ], 
+            "height": 46, 
+            "class": "", 
+            "left": 15
+        }, 
+        {
+            "top": 712, 
+            "id": "J-card-attitude-change", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 46, 
+            "class": "switch", 
+            "left": 275
+        }, 
+        {
+            "top": 712, 
+            "id": "", 
+            "width": 34, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 48, 
+            "class": "card-set", 
+            "left": 325
+        }
+    ], 
+    "height": 46, 
+    "class": "index-title", 
+    "left": 15
+}

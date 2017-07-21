@@ -1,0 +1,134 @@
+{
+    "index": "DIV1500567340.02", 
+    "top": 1917, 
+    "id": "", 
+    "width": 1200, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1917, 
+            "id": "", 
+            "width": 1200, 
+            "tag": "P", 
+            "leaves": [
+                {
+                    "top": 1917, 
+                    "id": "", 
+                    "width": 48, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 323
+                }, 
+                {
+                    "top": 1917, 
+                    "id": "", 
+                    "width": 48, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 434
+                }, 
+                {
+                    "top": 1917, 
+                    "id": "footFb", 
+                    "width": 84, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 546
+                }, 
+                {
+                    "top": 1917, 
+                    "id": "", 
+                    "width": 72, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 694
+                }, 
+                {
+                    "top": 1917, 
+                    "id": "", 
+                    "width": 48, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 829
+                }
+            ], 
+            "height": 20, 
+            "class": "footer-nav", 
+            "left": 0
+        }, 
+        {
+            "top": 1967, 
+            "id": "", 
+            "width": 1200, 
+            "tag": "P", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 0
+        }, 
+        {
+            "top": 1987, 
+            "id": "", 
+            "width": 1200, 
+            "tag": "P", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 0
+        }, 
+        {
+            "top": 2027, 
+            "id": "", 
+            "width": 1200, 
+            "tag": "P", 
+            "leaves": [
+                {
+                    "top": 2029, 
+                    "id": "", 
+                    "width": 293, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 400
+                }, 
+                {
+                    "top": 2027, 
+                    "id": "", 
+                    "width": 97, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 692
+                }
+            ], 
+            "height": 20, 
+            "class": "opa", 
+            "left": 0
+        }, 
+        {
+            "top": 2067, 
+            "id": "", 
+            "width": 1200, 
+            "tag": "P", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "opa", 
+            "left": 0
+        }
+    ], 
+    "height": 170, 
+    "class": "footer-content", 
+    "left": 0
+}

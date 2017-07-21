@@ -1,0 +1,32 @@
+{
+    "index": "DIV1500567273.56", 
+    "top": 137, 
+    "id": "", 
+    "width": 92, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 139, 
+            "id": "jiari-show-value", 
+            "width": 60, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "show-value", 
+            "left": 355
+        }, 
+        {
+            "top": 139, 
+            "id": "", 
+            "width": 21, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 21, 
+            "class": "seletor-handler", 
+            "left": 420
+        }
+    ], 
+    "height": 26, 
+    "class": "jiari-selector seletor-wrapper", 
+    "left": 352
+}

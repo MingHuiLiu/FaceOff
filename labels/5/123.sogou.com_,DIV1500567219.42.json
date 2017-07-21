@@ -1,0 +1,42 @@
+{
+    "index": "DIV1500567219.42", 
+    "top": 1617, 
+    "id": "", 
+    "width": 77, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1617, 
+            "id": "", 
+            "width": 28, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 34, 
+            "class": "", 
+            "left": 152
+        }, 
+        {
+            "top": 1627, 
+            "id": "", 
+            "width": 1, 
+            "tag": "I", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "ct", 
+            "left": 190
+        }, 
+        {
+            "top": 1617, 
+            "id": "", 
+            "width": 28, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 34, 
+            "class": "", 
+            "left": 201
+        }
+    ], 
+    "height": 34, 
+    "class": "col-2", 
+    "left": 152
+}

@@ -1,0 +1,149 @@
+{
+    "index": "DIV1500567256.77", 
+    "top": 122, 
+    "id": "", 
+    "width": 960, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 122, 
+            "id": "", 
+            "width": 960, 
+            "tag": "UL", 
+            "leaves": [
+                {
+                    "top": 122, 
+                    "id": "", 
+                    "width": 108, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 122, 
+                            "id": "", 
+                            "width": 107, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 120, 
+                                    "id": "", 
+                                    "width": 10, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 40, 
+                                    "class": "corner cn-left", 
+                                    "left": -1
+                                }
+                            ], 
+                            "height": 38, 
+                            "class": "", 
+                            "left": 0
+                        }
+                    ], 
+                    "height": 38, 
+                    "class": "", 
+                    "left": 0
+                }, 
+                {
+                    "top": 122, 
+                    "id": "", 
+                    "width": 108, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 122, 
+                            "id": "", 
+                            "width": 107, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 38, 
+                            "class": "", 
+                            "left": 108
+                        }
+                    ], 
+                    "height": 38, 
+                    "class": "", 
+                    "left": 108
+                }, 
+                {
+                    "top": 122, 
+                    "id": "", 
+                    "width": 108, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 122, 
+                            "id": "", 
+                            "width": 107, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 38, 
+                            "class": "", 
+                            "left": 216
+                        }
+                    ], 
+                    "height": 38, 
+                    "class": "", 
+                    "left": 216
+                }, 
+                {
+                    "top": 122, 
+                    "id": "", 
+                    "width": 108, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 122, 
+                            "id": "", 
+                            "width": 107, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 38, 
+                            "class": "", 
+                            "left": 324
+                        }
+                    ], 
+                    "height": 38, 
+                    "class": "", 
+                    "left": 324
+                }, 
+                {
+                    "top": 122, 
+                    "id": "", 
+                    "width": 108, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 122, 
+                            "id": "", 
+                            "width": 107, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 38, 
+                            "class": "", 
+                            "left": 432
+                        }
+                    ], 
+                    "height": 38, 
+                    "class": "", 
+                    "left": 432
+                }
+            ], 
+            "height": 38, 
+            "class": "cf", 
+            "left": 0
+        }, 
+        {
+            "top": 121, 
+            "id": "", 
+            "width": 10, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 40, 
+            "class": "corner cn-right", 
+            "left": 950
+        }
+    ], 
+    "height": 40, 
+    "class": "nav-bar", 
+    "left": 0
+}

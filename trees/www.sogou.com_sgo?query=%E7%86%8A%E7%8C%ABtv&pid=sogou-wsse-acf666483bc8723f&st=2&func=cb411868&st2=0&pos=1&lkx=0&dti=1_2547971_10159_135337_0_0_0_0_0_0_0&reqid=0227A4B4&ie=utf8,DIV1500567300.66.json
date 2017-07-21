@@ -1,0 +1,96 @@
+{
+    "index": "DIV1500567300.66", 
+    "top": 843, 
+    "id": "rb_2", 
+    "width": 550, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 844, 
+            "id": "", 
+            "width": 550, 
+            "tag": "H3", 
+            "leaves": [
+                {
+                    "top": 847, 
+                    "id": "uigs__2", 
+                    "width": 185, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 847, 
+                            "id": "", 
+                            "width": 32, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 17, 
+                            "class": "", 
+                            "left": 121
+                        }
+                    ], 
+                    "height": 17, 
+                    "class": "", 
+                    "left": 121
+                }
+            ], 
+            "height": 24, 
+            "class": "pt", 
+            "left": 121
+        }, 
+        {
+            "top": 868, 
+            "id": "cacheresult_summary_2", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 870, 
+                    "id": "", 
+                    "width": 26, 
+                    "tag": "EM", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 121
+                }
+            ], 
+            "height": 40, 
+            "class": "ft", 
+            "left": 121
+        }, 
+        {
+            "top": 908, 
+            "id": "", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 908, 
+                    "id": "cacheresult_info_2", 
+                    "width": 156, 
+                    "tag": "CITE", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 121
+                }, 
+                {
+                    "top": 910, 
+                    "id": "sogou_snapshot_2", 
+                    "width": 27, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 289
+                }
+            ], 
+            "height": 22, 
+            "class": "fb", 
+            "left": 121
+        }
+    ], 
+    "height": 87, 
+    "class": "rb", 
+    "left": 121
+}

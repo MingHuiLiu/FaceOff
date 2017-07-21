@@ -1,0 +1,32 @@
+{
+    "index": "DIV1500567304.75", 
+    "top": 1867, 
+    "id": "cacheresult_summary_9", 
+    "width": 550, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1869, 
+            "id": "", 
+            "width": 44, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 327
+        }, 
+        {
+            "top": 1889, 
+            "id": "", 
+            "width": 44, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 543
+        }
+    ], 
+    "height": 40, 
+    "class": "ft", 
+    "left": 121
+}

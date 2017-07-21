@@ -1,0 +1,32 @@
+{
+    "index": "DIV1500567273.43", 
+    "top": 137, 
+    "id": "", 
+    "width": 80, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 139, 
+            "id": "year-show-value", 
+            "width": 50, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "show-value", 
+            "left": 49
+        }, 
+        {
+            "top": 139, 
+            "id": "", 
+            "width": 21, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 21, 
+            "class": "seletor-handler", 
+            "left": 102
+        }
+    ], 
+    "height": 26, 
+    "class": "seletor-wrapper", 
+    "left": 46
+}

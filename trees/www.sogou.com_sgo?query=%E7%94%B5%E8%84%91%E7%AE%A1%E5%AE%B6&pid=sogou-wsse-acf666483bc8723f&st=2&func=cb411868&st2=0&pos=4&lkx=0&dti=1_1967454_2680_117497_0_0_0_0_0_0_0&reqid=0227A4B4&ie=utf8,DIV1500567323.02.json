@@ -1,0 +1,106 @@
+{
+    "index": "DIV1500567323.02", 
+    "top": 1602, 
+    "id": "rb_7", 
+    "width": 550, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1603, 
+            "id": "", 
+            "width": 550, 
+            "tag": "H3", 
+            "leaves": [
+                {
+                    "top": 1606, 
+                    "id": "uigs__7", 
+                    "width": 207, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 1606, 
+                            "id": "", 
+                            "width": 64, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 17, 
+                            "class": "", 
+                            "left": 121
+                        }
+                    ], 
+                    "height": 17, 
+                    "class": "", 
+                    "left": 121
+                }
+            ], 
+            "height": 24, 
+            "class": "pt", 
+            "left": 121
+        }, 
+        {
+            "top": 1627, 
+            "id": "cacheresult_summary_7", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 1629, 
+                    "id": "", 
+                    "width": 53, 
+                    "tag": "EM", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 392
+                }, 
+                {
+                    "top": 1629, 
+                    "id": "", 
+                    "width": 53, 
+                    "tag": "EM", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 590
+                }
+            ], 
+            "height": 40, 
+            "class": "ft", 
+            "left": 121
+        }, 
+        {
+            "top": 1667, 
+            "id": "", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 1667, 
+                    "id": "cacheresult_info_7", 
+                    "width": 275, 
+                    "tag": "CITE", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 121
+                }, 
+                {
+                    "top": 1669, 
+                    "id": "sogou_snapshot_7", 
+                    "width": 27, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 408
+                }
+            ], 
+            "height": 22, 
+            "class": "fb", 
+            "left": 121
+        }
+    ], 
+    "height": 87, 
+    "class": "rb", 
+    "left": 121
+}

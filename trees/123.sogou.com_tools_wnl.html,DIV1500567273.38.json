@@ -1,0 +1,63 @@
+{
+    "index": "DIV1500567273.38", 
+    "top": 126, 
+    "id": "", 
+    "width": 152, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 141, 
+            "id": "year-left-btn", 
+            "width": 14, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 18, 
+            "class": "left-btn", 
+            "left": 20
+        }, 
+        {
+            "top": 137, 
+            "id": "", 
+            "width": 80, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 139, 
+                    "id": "year-show-value", 
+                    "width": 50, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 22, 
+                    "class": "show-value", 
+                    "left": 49
+                }, 
+                {
+                    "top": 139, 
+                    "id": "", 
+                    "width": 21, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 21, 
+                    "class": "seletor-handler", 
+                    "left": 102
+                }
+            ], 
+            "height": 26, 
+            "class": "seletor-wrapper", 
+            "left": 46
+        }, 
+        {
+            "top": 141, 
+            "id": "year-right-btn", 
+            "width": 14, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 18, 
+            "class": "right-btn", 
+            "left": 138
+        }
+    ], 
+    "height": 37, 
+    "class": "year-selector-wrapper cf", 
+    "left": 0
+}

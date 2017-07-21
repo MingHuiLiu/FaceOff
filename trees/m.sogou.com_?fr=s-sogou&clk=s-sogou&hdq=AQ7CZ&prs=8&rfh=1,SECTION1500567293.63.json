@@ -1,0 +1,234 @@
+{
+    "index": "SECTION1500567293.63", 
+    "top": 352, 
+    "id": "J-card-hotWords", 
+    "width": 360, 
+    "tag": "SECTION", 
+    "leaves": [
+        {
+            "top": 352, 
+            "id": "", 
+            "width": 330, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 352, 
+                    "id": "", 
+                    "width": 260, 
+                    "tag": "P", 
+                    "leaves": [
+                        {
+                            "top": 352, 
+                            "id": "", 
+                            "width": 58, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 46, 
+                            "class": "", 
+                            "left": 15
+                        }
+                    ], 
+                    "height": 46, 
+                    "class": "", 
+                    "left": 15
+                }, 
+                {
+                    "top": 352, 
+                    "id": "", 
+                    "width": 36, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 46, 
+                    "class": "switch card-hotWords-switch", 
+                    "left": 275
+                }, 
+                {
+                    "top": 352, 
+                    "id": "", 
+                    "width": 34, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 48, 
+                    "class": "card-set", 
+                    "left": 325
+                }
+            ], 
+            "height": 46, 
+            "class": "index-title", 
+            "left": 15
+        }, 
+        {
+            "top": 392, 
+            "id": "", 
+            "width": 330, 
+            "tag": "UL", 
+            "leaves": [
+                {
+                    "top": 392, 
+                    "id": "", 
+                    "width": 330, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 392, 
+                            "id": "", 
+                            "width": 165, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 392, 
+                                    "id": "", 
+                                    "width": 129, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 36, 
+                                    "class": "", 
+                                    "left": 15
+                                }
+                            ], 
+                            "height": 36, 
+                            "class": "", 
+                            "left": 15
+                        }, 
+                        {
+                            "top": 392, 
+                            "id": "", 
+                            "width": 165, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 392, 
+                                    "id": "", 
+                                    "width": 147, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 36, 
+                                    "class": "", 
+                                    "left": 194
+                                }
+                            ], 
+                            "height": 36, 
+                            "class": "", 
+                            "left": 180
+                        }
+                    ], 
+                    "height": 36, 
+                    "class": "", 
+                    "left": 15
+                }, 
+                {
+                    "top": 428, 
+                    "id": "", 
+                    "width": 330, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 428, 
+                            "id": "", 
+                            "width": 165, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 428, 
+                                    "id": "", 
+                                    "width": 143, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 36, 
+                                    "class": "", 
+                                    "left": 15
+                                }
+                            ], 
+                            "height": 36, 
+                            "class": "", 
+                            "left": 15
+                        }, 
+                        {
+                            "top": 428, 
+                            "id": "", 
+                            "width": 165, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 428, 
+                                    "id": "", 
+                                    "width": 143, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 36, 
+                                    "class": "", 
+                                    "left": 194
+                                }
+                            ], 
+                            "height": 36, 
+                            "class": "", 
+                            "left": 180
+                        }
+                    ], 
+                    "height": 36, 
+                    "class": "", 
+                    "left": 15
+                }, 
+                {
+                    "top": 464, 
+                    "id": "", 
+                    "width": 330, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 464, 
+                            "id": "", 
+                            "width": 165, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 464, 
+                                    "id": "", 
+                                    "width": 143, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 36, 
+                                    "class": "", 
+                                    "left": 15
+                                }
+                            ], 
+                            "height": 36, 
+                            "class": "", 
+                            "left": 15
+                        }, 
+                        {
+                            "top": 464, 
+                            "id": "", 
+                            "width": 165, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 464, 
+                                    "id": "", 
+                                    "width": 143, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 36, 
+                                    "class": "", 
+                                    "left": 194
+                                }
+                            ], 
+                            "height": 36, 
+                            "class": "", 
+                            "left": 180
+                        }
+                    ], 
+                    "height": 36, 
+                    "class": "", 
+                    "left": 15
+                }
+            ], 
+            "height": 118, 
+            "class": "index-top-list", 
+            "left": 15
+        }
+    ], 
+    "height": 158, 
+    "class": "index-item", 
+    "left": 0
+}

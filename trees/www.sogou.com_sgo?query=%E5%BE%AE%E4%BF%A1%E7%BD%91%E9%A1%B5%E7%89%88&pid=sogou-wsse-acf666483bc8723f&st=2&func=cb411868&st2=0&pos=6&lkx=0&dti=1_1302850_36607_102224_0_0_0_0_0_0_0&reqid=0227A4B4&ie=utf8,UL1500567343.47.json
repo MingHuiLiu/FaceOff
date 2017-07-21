@@ -1,0 +1,96 @@
+{
+    "index": "UL1500567343.47", 
+    "top": 481, 
+    "id": "", 
+    "width": 550, 
+    "tag": "UL", 
+    "leaves": [
+        {
+            "top": 481, 
+            "id": "", 
+            "width": 59, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 481, 
+                    "id": "sogou_vr_70010901_new1117-tab-win_2", 
+                    "width": 59, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 121
+                }
+            ], 
+            "height": 32, 
+            "class": "cur", 
+            "left": 121
+        }, 
+        {
+            "top": 481, 
+            "id": "", 
+            "width": 73, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 481, 
+                    "id": "sogou_vr_70010901_new1117-tab-IOS_2", 
+                    "width": 73, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 180
+                }
+            ], 
+            "height": 32, 
+            "class": "", 
+            "left": 180
+        }, 
+        {
+            "top": 481, 
+            "id": "", 
+            "width": 58, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 481, 
+                    "id": "sogou_vr_70010901_new1117-tab-MAC_2", 
+                    "width": 58, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 253
+                }
+            ], 
+            "height": 32, 
+            "class": "", 
+            "left": 253
+        }, 
+        {
+            "top": 481, 
+            "id": "", 
+            "width": 59, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 481, 
+                    "id": "sogou_vr_70010901_new1117-tab-IPAD_2", 
+                    "width": 59, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 311
+                }
+            ], 
+            "height": 32, 
+            "class": "", 
+            "left": 311
+        }
+    ], 
+    "height": 32, 
+    "class": "tab-vr-lis js_tabTitle", 
+    "left": 121
+}

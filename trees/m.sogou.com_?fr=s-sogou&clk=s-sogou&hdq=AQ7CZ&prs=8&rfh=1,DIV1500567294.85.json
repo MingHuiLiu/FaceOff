@@ -1,0 +1,52 @@
+{
+    "index": "DIV1500567294.85", 
+    "top": 1594, 
+    "id": "J-index-footer", 
+    "width": 360, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1613, 
+            "id": "", 
+            "width": 56, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 18, 
+            "class": "", 
+            "left": 86
+        }, 
+        {
+            "top": 1612, 
+            "id": "", 
+            "width": 56, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "ft-link", 
+            "left": 146
+        }, 
+        {
+            "top": 1612, 
+            "id": "", 
+            "width": 68, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "ft-link", 
+            "left": 206
+        }, 
+        {
+            "top": 1632, 
+            "id": "", 
+            "width": 360, 
+            "tag": "P", 
+            "leaves": [], 
+            "height": 26, 
+            "class": "", 
+            "left": 0
+        }
+    ], 
+    "height": 64, 
+    "class": "footer ", 
+    "left": 0
+}

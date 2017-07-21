@@ -1,0 +1,52 @@
+{
+    "index": "DIV1500567345.37", 
+    "top": 1097, 
+    "id": "cacheresult_summary_6", 
+    "width": 550, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1099, 
+            "id": "", 
+            "width": 27, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 258
+        }, 
+        {
+            "top": 1119, 
+            "id": "", 
+            "width": 27, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 164
+        }, 
+        {
+            "top": 1119, 
+            "id": "", 
+            "width": 27, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 193
+        }, 
+        {
+            "top": 1119, 
+            "id": "", 
+            "width": 27, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 366
+        }
+    ], 
+    "height": 40, 
+    "class": "ft", 
+    "left": 121
+}

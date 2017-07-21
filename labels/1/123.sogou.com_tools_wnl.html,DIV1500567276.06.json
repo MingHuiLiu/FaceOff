@@ -1,0 +1,64 @@
+{
+    "index": "DIV1500567276.06", 
+    "top": 732, 
+    "id": "", 
+    "width": 156, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 732, 
+            "id": "", 
+            "width": 156, 
+            "tag": "IMG", 
+            "leaves": [], 
+            "height": 108, 
+            "class": "", 
+            "left": 13
+        }, 
+        {
+            "top": 814, 
+            "id": "", 
+            "width": 148, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 814, 
+                    "id": "", 
+                    "width": 148, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 814, 
+                            "id": "", 
+                            "width": 78, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 22, 
+                            "class": "tit", 
+                            "left": 25
+                        }, 
+                        {
+                            "top": 814, 
+                            "id": "", 
+                            "width": 50, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 22, 
+                            "class": "price", 
+                            "left": 107
+                        }
+                    ], 
+                    "height": 22, 
+                    "class": "", 
+                    "left": 17
+                }
+            ], 
+            "height": 22, 
+            "class": "info clearfix", 
+            "left": 17
+        }
+    ], 
+    "height": 108, 
+    "class": "pic HolForCale", 
+    "left": 13
+}

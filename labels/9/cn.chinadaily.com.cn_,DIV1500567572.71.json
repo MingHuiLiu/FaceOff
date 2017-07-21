@@ -1,0 +1,32 @@
+{
+    "index": "DIV1500567572.71", 
+    "top": 3743, 
+    "id": "", 
+    "width": 360, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 3747, 
+            "id": "", 
+            "width": 340, 
+            "tag": "P", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "", 
+            "left": 10
+        }, 
+        {
+            "top": 3773, 
+            "id": "", 
+            "width": 340, 
+            "tag": "P", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "", 
+            "left": 10
+        }
+    ], 
+    "height": 56, 
+    "class": "am-footer-miscs ", 
+    "left": 0
+}

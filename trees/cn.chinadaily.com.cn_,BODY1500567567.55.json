@@ -1,0 +1,2803 @@
+{
+    "index": "BODY1500567567.55", 
+    "top": 0, 
+    "id": "", 
+    "width": 360, 
+    "tag": "BODY", 
+    "leaves": [
+        {
+            "top": 0, 
+            "id": "", 
+            "width": 216, 
+            "tag": "ARTICLE", 
+            "leaves": [], 
+            "height": 39, 
+            "class": "am-paragraph am-paragraph-one WIDGET-56f88f4cf9fc8442a17ead22 head-logo am-no-layout", 
+            "left": 10
+        }, 
+        {
+            "top": 39, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 39, 
+                    "id": "", 
+                    "width": 360, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 39, 
+                            "id": "", 
+                            "width": 4320, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 39, 
+                                    "id": "", 
+                                    "width": 360, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 202, 
+                                    "class": "clone", 
+                                    "left": 0
+                                }, 
+                                {
+                                    "top": 39, 
+                                    "id": "", 
+                                    "width": 360, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 202, 
+                                    "class": "", 
+                                    "left": 360
+                                }, 
+                                {
+                                    "top": 39, 
+                                    "id": "", 
+                                    "width": 360, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 202, 
+                                    "class": "", 
+                                    "left": 720
+                                }, 
+                                {
+                                    "top": 39, 
+                                    "id": "", 
+                                    "width": 360, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 202, 
+                                    "class": "am-active-slide", 
+                                    "left": 1080
+                                }, 
+                                {
+                                    "top": 39, 
+                                    "id": "", 
+                                    "width": 360, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 202, 
+                                    "class": "", 
+                                    "left": 1440
+                                }, 
+                                {
+                                    "top": 39, 
+                                    "id": "", 
+                                    "width": 360, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 202, 
+                                    "class": "clone", 
+                                    "left": 1800
+                                }
+                            ], 
+                            "height": 202, 
+                            "class": "am-slides", 
+                            "left": 0
+                        }
+                    ], 
+                    "height": 202, 
+                    "class": "am-viewport", 
+                    "left": 0
+                }, 
+                {
+                    "top": 220, 
+                    "id": "", 
+                    "width": 24, 
+                    "tag": "OL", 
+                    "leaves": [
+                        {
+                            "top": 220, 
+                            "id": "", 
+                            "width": 6, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 220, 
+                                    "id": "", 
+                                    "width": 6, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 6, 
+                                    "class": "", 
+                                    "left": 336
+                                }
+                            ], 
+                            "height": 6, 
+                            "class": "", 
+                            "left": 336
+                        }, 
+                        {
+                            "top": 220, 
+                            "id": "", 
+                            "width": 6, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 220, 
+                                    "id": "", 
+                                    "width": 6, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 6, 
+                                    "class": "", 
+                                    "left": 342
+                                }
+                            ], 
+                            "height": 6, 
+                            "class": "", 
+                            "left": 342
+                        }, 
+                        {
+                            "top": 220, 
+                            "id": "", 
+                            "width": 6, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 220, 
+                                    "id": "", 
+                                    "width": 6, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 6, 
+                                    "class": "am-active", 
+                                    "left": 348
+                                }
+                            ], 
+                            "height": 6, 
+                            "class": "", 
+                            "left": 348
+                        }, 
+                        {
+                            "top": 220, 
+                            "id": "", 
+                            "width": 6, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 220, 
+                                    "id": "", 
+                                    "width": 6, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 6, 
+                                    "class": "", 
+                                    "left": 354
+                                }
+                            ], 
+                            "height": 6, 
+                            "class": "", 
+                            "left": 354
+                        }
+                    ], 
+                    "height": 6, 
+                    "class": "am-control-nav am-control-paging", 
+                    "left": 336
+                }
+            ], 
+            "height": 202, 
+            "class": "am-slider am-slider-c2 WIDGET-572f6d0a287303a090acf8eb index-slide am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 246, 
+            "id": "", 
+            "width": 340, 
+            "tag": "ARTICLE", 
+            "leaves": [], 
+            "height": 73, 
+            "class": "am-paragraph am-paragraph-default WIDGET-58d8d9d415a3c9e41f3dbfd0 banner-core am-no-layout", 
+            "left": 10
+        }, 
+        {
+            "top": 329, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 329, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 329, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 329, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 329, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 329, 
+                                                    "id": "", 
+                                                    "width": 340, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 331, 
+                                                            "id": "", 
+                                                            "width": 272, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 21, 
+                                                            "class": "", 
+                                                            "left": 44
+                                                        }
+                                                    ], 
+                                                    "height": 25, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 10
+                                                }, 
+                                                {
+                                                    "top": 359, 
+                                                    "id": "", 
+                                                    "width": 340, 
+                                                    "tag": "DIV", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 358, 
+                                                            "id": "", 
+                                                            "width": 160, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 17, 
+                                                            "class": "", 
+                                                            "left": 101
+                                                        }
+                                                    ], 
+                                                    "height": 16, 
+                                                    "class": "am-list-item-text", 
+                                                    "left": 10
+                                                }
+                                            ], 
+                                            "height": 46, 
+                                            "class": "am-col am-list-main", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 47, 
+                                    "class": "am-g am-list-item-desced", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 47, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 47, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 47, 
+            "class": "am-list-news am-list-news-default WIDGET-572f6d0ddb158382760d314f list-yaowen-xi am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 386, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 386, 
+                    "id": "", 
+                    "width": 360, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 392, 
+                            "id": "", 
+                            "width": 36, 
+                            "tag": "H2", 
+                            "leaves": [], 
+                            "height": 20, 
+                            "class": "", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 32, 
+                    "class": "am-list-news-hd am-cf", 
+                    "left": 0
+                }, 
+                {
+                    "top": 418, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 418, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 418, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 2, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 2, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 2, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 34, 
+            "class": "am-list-news am-list-news-default WIDGET-58aceab4aae1fe0363d6c9a0 list-szyw am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 430, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 430, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 430, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 430, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 430, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 63, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 430, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 430, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 432, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 63, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 63, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 63, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 63, 
+            "class": "am-list-news am-list-news-default WIDGET-58aceb16aae1fe0363d6c9a1 list-yaowen-li am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 503, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 503, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 503, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 503, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 2, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 505, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 505, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 72, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 505, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 505, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 507, 
+                                                            "id": "", 
+                                                            "width": 196, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 74, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 579, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 579, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 579, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 579, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 581, 
+                                                            "id": "", 
+                                                            "width": 197, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 649, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 649, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 649, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 649, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 651, 
+                                                            "id": "", 
+                                                            "width": 196, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 71, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 75, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 75, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 77, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 726, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 726, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 726, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 726, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 728, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 293, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 293, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 293, 
+            "class": "am-list-news am-list-news-default WIDGET-57302ae208dabf9e90d5a420 list-szyw am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 806, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 806, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 806, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 806, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 2, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 808, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 808, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 808, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 808, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 810, 
+                                                            "id": "", 
+                                                            "width": 203, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 878, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 878, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 878, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 878, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 880, 
+                                                            "id": "", 
+                                                            "width": 198, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 948, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 948, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 948, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 948, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 950, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1018, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1018, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1018, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1018, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1020, 
+                                                            "id": "", 
+                                                            "width": 195, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 282, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 282, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 282, 
+            "class": "am-list-news am-list-news-default WIDGET-57302f33e7ad6d6374aaacd4 list-szyw am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 1098, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 1098, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 1098, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 1098, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 2, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1100, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1100, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1100, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1100, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1102, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 71, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 75, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 75, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 77, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1177, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1177, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 67, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1177, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1177, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1179, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 69, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1246, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1246, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1246, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1246, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1248, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 96, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 100, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 100, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 102, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1348, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1348, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1348, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1348, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1350, 
+                                                            "id": "", 
+                                                            "width": 176, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 21, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 25, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 25, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 320, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 320, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 320, 
+            "class": "am-list-news am-list-news-default WIDGET-57302f6a287303a090acfa39 list-szyw am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 1428, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 1428, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 1428, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 1428, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 2, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1430, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1430, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1430, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1430, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1432, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 96, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 100, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 100, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 102, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1532, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1532, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1532, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1532, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1534, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 71, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 75, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 75, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 77, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1609, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1609, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 72, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1609, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1609, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1611, 
+                                                            "id": "", 
+                                                            "width": 198, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 74, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1683, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1683, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1683, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1683, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1685, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 71, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 75, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 75, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 77, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 332, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 332, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 332, 
+            "class": "am-list-news am-list-news-default WIDGET-57302f86287303a090acfa3a list-szyw am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 1770, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 1770, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 1770, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 1770, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 2, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1772, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1772, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1772, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1772, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1774, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 21, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 25, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 25, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1842, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1842, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1842, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1842, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1844, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1912, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1912, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1912, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1912, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1914, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 1982, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 1982, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 1982, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 1982, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 1984, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 71, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 75, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 75, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 77, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 289, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 289, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 289, 
+            "class": "am-list-news am-list-news-default WIDGET-57302fa6287303a090acfa3d list-szyw am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 2069, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 2069, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 2069, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 2069, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [], 
+                                    "height": 2, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 2071, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2071, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 2071, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 2071, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 2073, 
+                                                            "id": "", 
+                                                            "width": 170, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 21, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 25, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 25, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 2141, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2141, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 2141, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 2141, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 2143, 
+                                                            "id": "", 
+                                                            "width": 192, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 2211, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2211, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 2211, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 2211, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 2213, 
+                                                            "id": "", 
+                                                            "width": 202, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 70, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 2281, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2281, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 68, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 2281, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 2281, 
+                                                    "id": "", 
+                                                    "width": 207, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 2283, 
+                                                            "id": "", 
+                                                            "width": 197, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 71, 
+                                                            "class": "", 
+                                                            "left": 133
+                                                        }
+                                                    ], 
+                                                    "height": 75, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 133
+                                                }
+                                            ], 
+                                            "height": 75, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 77, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 289, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 289, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 289, 
+            "class": "am-list-news am-list-news-default WIDGET-57302fb108dabf9e90d5a428 list-szyw am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 2368, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 2368, 
+                    "id": "", 
+                    "width": 360, 
+                    "tag": "DIV", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "am-list-news-hd am-cf", 
+                    "left": 0
+                }, 
+                {
+                    "top": 2400, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 2400, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 2400, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2400, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 230, 
+                                            "class": "am-list-thumb am-col col-sm-12", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 2638, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 2638, 
+                                                    "id": "", 
+                                                    "width": 340, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 2640, 
+                                                            "id": "", 
+                                                            "width": 32, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 21, 
+                                                            "class": "", 
+                                                            "left": 10
+                                                        }
+                                                    ], 
+                                                    "height": 25, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 10
+                                                }
+                                            ], 
+                                            "height": 25, 
+                                            "class": "am-col am-list-main", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 265, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-top", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 265, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 265, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 297, 
+            "class": "am-list-news am-list-news-default WIDGET-57301828287303a090acfa1a list-manhua am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 2675, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 2675, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 2675, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 2675, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2675, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 45, 
+                                            "class": "am-list-item-hd", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 47, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 2722, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2722, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 45, 
+                                            "class": "am-list-item-hd", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 47, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 2769, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2769, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 45, 
+                                            "class": "am-list-item-hd", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 47, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 2816, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2816, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 45, 
+                                            "class": "am-list-item-hd", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 47, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 2863, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2863, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 45, 
+                                            "class": "am-list-item-hd", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 47, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 2910, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2910, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 45, 
+                                            "class": "am-list-item-hd", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 47, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 2957, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 2957, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 45, 
+                                            "class": "am-list-item-hd", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 47, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 3004, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 3004, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 45, 
+                                            "class": "am-list-item-hd", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 47, 
+                                    "class": "am-g", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 376, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 376, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 376, 
+            "class": "am-list-news am-list-news-default WIDGET-5730170908dabf9e90d5a415 list-yaowen-detail am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 3061, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 3061, 
+                    "id": "", 
+                    "width": 360, 
+                    "tag": "DIV", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "am-list-news-hd am-cf", 
+                    "left": 0
+                }, 
+                {
+                    "top": 3093, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 3093, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 3093, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 3093, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 80, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 3093, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 3093, 
+                                                    "id": "", 
+                                                    "width": 227, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 3095, 
+                                                            "id": "", 
+                                                            "width": 216, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 123
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 123
+                                                }, 
+                                                {
+                                                    "top": 3148, 
+                                                    "id": "", 
+                                                    "width": 227, 
+                                                    "tag": "DIV", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 3163, 
+                                                            "id": "", 
+                                                            "width": 36, 
+                                                            "tag": "SPAN", 
+                                                            "leaves": [
+                                                                {
+                                                                    "top": 3163, 
+                                                                    "id": "", 
+                                                                    "width": 36, 
+                                                                    "tag": "A", 
+                                                                    "leaves": [], 
+                                                                    "height": 17, 
+                                                                    "class": "", 
+                                                                    "left": 309
+                                                                }
+                                                            ], 
+                                                            "height": 17, 
+                                                            "class": "", 
+                                                            "left": 309
+                                                        }
+                                                    ], 
+                                                    "height": 32, 
+                                                    "class": "am-list-item-text", 
+                                                    "left": 123
+                                                }
+                                            ], 
+                                            "height": 87, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 89, 
+                                    "class": "am-g am-list-item-desced am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 3182, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 3182, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 80, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 3182, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 3182, 
+                                                    "id": "", 
+                                                    "width": 227, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 3184, 
+                                                            "id": "", 
+                                                            "width": 224, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 123
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 123
+                                                }, 
+                                                {
+                                                    "top": 3237, 
+                                                    "id": "", 
+                                                    "width": 227, 
+                                                    "tag": "DIV", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 3252, 
+                                                            "id": "", 
+                                                            "width": 36, 
+                                                            "tag": "SPAN", 
+                                                            "leaves": [
+                                                                {
+                                                                    "top": 3252, 
+                                                                    "id": "", 
+                                                                    "width": 36, 
+                                                                    "tag": "A", 
+                                                                    "leaves": [], 
+                                                                    "height": 17, 
+                                                                    "class": "", 
+                                                                    "left": 192
+                                                                }
+                                                            ], 
+                                                            "height": 17, 
+                                                            "class": "", 
+                                                            "left": 192
+                                                        }
+                                                    ], 
+                                                    "height": 32, 
+                                                    "class": "am-list-item-text", 
+                                                    "left": 123
+                                                }
+                                            ], 
+                                            "height": 87, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 89, 
+                                    "class": "am-g am-list-item-desced am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }, 
+                                {
+                                    "top": 3271, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 3271, 
+                                            "id": "", 
+                                            "width": 113, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 80, 
+                                            "class": "am-col col-sm-4 am-list-thumb", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 3271, 
+                                            "id": "", 
+                                            "width": 227, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 3271, 
+                                                    "id": "", 
+                                                    "width": 227, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 3273, 
+                                                            "id": "", 
+                                                            "width": 224, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 123
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 123
+                                                }, 
+                                                {
+                                                    "top": 3326, 
+                                                    "id": "", 
+                                                    "width": 227, 
+                                                    "tag": "DIV", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 3341, 
+                                                            "id": "", 
+                                                            "width": 36, 
+                                                            "tag": "SPAN", 
+                                                            "leaves": [
+                                                                {
+                                                                    "top": 3341, 
+                                                                    "id": "", 
+                                                                    "width": 36, 
+                                                                    "tag": "A", 
+                                                                    "leaves": [], 
+                                                                    "height": 17, 
+                                                                    "class": "", 
+                                                                    "left": 244
+                                                                }
+                                                            ], 
+                                                            "height": 17, 
+                                                            "class": "", 
+                                                            "left": 244
+                                                        }
+                                                    ], 
+                                                    "height": 32, 
+                                                    "class": "am-list-item-text", 
+                                                    "left": 123
+                                                }
+                                            ], 
+                                            "height": 87, 
+                                            "class": "am-col col-sm-8 am-list-main", 
+                                            "left": 123
+                                        }
+                                    ], 
+                                    "height": 89, 
+                                    "class": "am-g am-list-item-desced am-list-item-thumbed am-list-item-thumb-left", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 267, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 267, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 299, 
+            "class": "am-list-news am-list-news-default WIDGET-5730304a287303a090acfa41 index-cjzl am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 3370, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 3370, 
+                    "id": "", 
+                    "width": 360, 
+                    "tag": "DIV", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "am-list-news-hd am-cf", 
+                    "left": 0
+                }, 
+                {
+                    "top": 3402, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 3402, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 3402, 
+                                    "id": "", 
+                                    "width": 340, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 3402, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "DIV", 
+                                            "leaves": [], 
+                                            "height": 220, 
+                                            "class": "am-list-thumb am-col col-sm-12", 
+                                            "left": 10
+                                        }, 
+                                        {
+                                            "top": 3630, 
+                                            "id": "", 
+                                            "width": 340, 
+                                            "tag": "DIV", 
+                                            "leaves": [
+                                                {
+                                                    "top": 3630, 
+                                                    "id": "", 
+                                                    "width": 340, 
+                                                    "tag": "H3", 
+                                                    "leaves": [
+                                                        {
+                                                            "top": 3632, 
+                                                            "id": "", 
+                                                            "width": 336, 
+                                                            "tag": "A", 
+                                                            "leaves": [], 
+                                                            "height": 46, 
+                                                            "class": "", 
+                                                            "left": 10
+                                                        }
+                                                    ], 
+                                                    "height": 50, 
+                                                    "class": "am-list-item-hd", 
+                                                    "left": 10
+                                                }
+                                            ], 
+                                            "height": 50, 
+                                            "class": "am-col am-list-main", 
+                                            "left": 10
+                                        }
+                                    ], 
+                                    "height": 280, 
+                                    "class": "am-g am-list-item-thumbed am-list-item-thumb-top", 
+                                    "left": 10
+                                }
+                            ], 
+                            "height": 280, 
+                            "class": "am-list", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 280, 
+                    "class": "am-list-news-bd", 
+                    "left": 10
+                }
+            ], 
+            "height": 312, 
+            "class": "am-list-news am-list-news-default WIDGET-5730325a08dabf9e90d5a430 list-sp am-no-layout", 
+            "left": 0
+        }, 
+        {
+            "top": 532, 
+            "id": "", 
+            "width": 32, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 532, 
+                    "id": "", 
+                    "width": 32, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 532, 
+                            "id": "", 
+                            "width": 32, 
+                            "tag": "I", 
+                            "leaves": [], 
+                            "height": 32, 
+                            "class": "am-gotop-icon am-icon-arrow-up", 
+                            "left": 318
+                        }
+                    ], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 318
+                }
+            ], 
+            "height": 32, 
+            "class": "am-gotop am-gotop-fixed WIDGET-571b6a4b287303a090ace1cc gotop am-no-layout", 
+            "left": 318
+        }, 
+        {
+            "top": 3692, 
+            "id": "", 
+            "width": 360, 
+            "tag": "FOOTER", 
+            "leaves": [
+                {
+                    "top": 3708, 
+                    "id": "", 
+                    "width": 360, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 3710, 
+                            "id": "", 
+                            "width": 69, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 21, 
+                            "class": "am-footer-ysp", 
+                            "left": 117
+                        }, 
+                        {
+                            "top": 3710, 
+                            "id": "", 
+                            "width": 10, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 21, 
+                            "class": "am-footer-divider", 
+                            "left": 186
+                        }, 
+                        {
+                            "top": 3710, 
+                            "id": "godesktop", 
+                            "width": 49, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 21, 
+                            "class": "am-footer-desktop", 
+                            "left": 195
+                        }
+                    ], 
+                    "height": 25, 
+                    "class": "am-footer-switch", 
+                    "left": 0
+                }, 
+                {
+                    "top": 3743, 
+                    "id": "", 
+                    "width": 360, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 3747, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "P", 
+                            "leaves": [], 
+                            "height": 22, 
+                            "class": "", 
+                            "left": 10
+                        }, 
+                        {
+                            "top": 3773, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "P", 
+                            "leaves": [], 
+                            "height": 22, 
+                            "class": "", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 56, 
+                    "class": "am-footer-miscs ", 
+                    "left": 0
+                }
+            ], 
+            "height": 123, 
+            "class": "am-footer am-footer-one WIDGET-571b6a7208dabf9e90d59b99 footer am-no-layout", 
+            "left": 0
+        }
+    ], 
+    "height": 3815, 
+    "class": "index", 
+    "left": 0
+}

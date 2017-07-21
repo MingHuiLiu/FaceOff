@@ -1,0 +1,42 @@
+{
+    "index": "HEADER1500567180.91", 
+    "top": 0, 
+    "height": 45, 
+    "width": 360, 
+    "tag": "HEADER", 
+    "leaves": [
+        {
+            "top": 0, 
+            "height": 45, 
+            "width": 46, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 10
+        }, 
+        {
+            "top": 0, 
+            "height": 45, 
+            "width": 255, 
+            "tag": "DIV", 
+            "leaves": [], 
+            "left": 56
+        }, 
+        {
+            "top": 0, 
+            "height": 45, 
+            "width": 160, 
+            "tag": "DIV", 
+            "leaves": [], 
+            "left": 90
+        }, 
+        {
+            "top": 10, 
+            "height": 16, 
+            "width": 16, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 320
+        }
+    ], 
+    "left": 0
+}

@@ -1,0 +1,65 @@
+{
+    "index": "DIV1500567568.66", 
+    "top": 386, 
+    "id": "", 
+    "width": 360, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 386, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 392, 
+                    "id": "", 
+                    "width": 36, 
+                    "tag": "H2", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 10
+                }
+            ], 
+            "height": 32, 
+            "class": "am-list-news-hd am-cf", 
+            "left": 0
+        }, 
+        {
+            "top": 418, 
+            "id": "", 
+            "width": 340, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 418, 
+                    "id": "", 
+                    "width": 340, 
+                    "tag": "UL", 
+                    "leaves": [
+                        {
+                            "top": 418, 
+                            "id": "", 
+                            "width": 340, 
+                            "tag": "LI", 
+                            "leaves": [], 
+                            "height": 2, 
+                            "class": "am-g", 
+                            "left": 10
+                        }
+                    ], 
+                    "height": 2, 
+                    "class": "am-list", 
+                    "left": 10
+                }
+            ], 
+            "height": 2, 
+            "class": "am-list-news-bd", 
+            "left": 10
+        }
+    ], 
+    "height": 34, 
+    "class": "am-list-news am-list-news-default WIDGET-58aceab4aae1fe0363d6c9a0 list-szyw am-no-layout", 
+    "left": 0
+}

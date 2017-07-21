@@ -1,0 +1,32 @@
+{
+    "index": "P1500567294.42", 
+    "top": 852, 
+    "id": "", 
+    "width": 306, 
+    "tag": "P", 
+    "leaves": [
+        {
+            "top": 854, 
+            "id": "", 
+            "width": 64, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "", 
+            "left": 287
+        }, 
+        {
+            "top": 854, 
+            "id": "", 
+            "width": 43, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "", 
+            "left": 355
+        }
+    ], 
+    "height": 18, 
+    "class": "", 
+    "left": 192
+}

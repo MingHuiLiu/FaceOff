@@ -1,0 +1,53 @@
+{
+    "index": "DIV1500567278.58", 
+    "top": 335, 
+    "id": "", 
+    "width": 360, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 335, 
+            "id": "", 
+            "width": 338, 
+            "tag": "SPAN", 
+            "leaves": [
+                {
+                    "top": 338, 
+                    "id": "", 
+                    "width": 17, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 18, 
+                    "class": "up-to-cbox-ico", 
+                    "left": 125
+                }, 
+                {
+                    "top": 339, 
+                    "id": "", 
+                    "width": 86, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 17, 
+                    "class": "up-to-cbox-text", 
+                    "left": 149
+                }
+            ], 
+            "height": 25, 
+            "class": "up-to-cbox", 
+            "left": 11
+        }, 
+        {
+            "top": 374, 
+            "id": "", 
+            "width": 66, 
+            "tag": "DIV", 
+            "leaves": [], 
+            "height": 45, 
+            "class": "cy-logo", 
+            "left": 147
+        }
+    ], 
+    "height": 84, 
+    "class": "list-footer-wrapper-wap", 
+    "left": 0
+}

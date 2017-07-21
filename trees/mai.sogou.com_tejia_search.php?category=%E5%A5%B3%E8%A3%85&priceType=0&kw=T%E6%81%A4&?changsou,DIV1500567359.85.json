@@ -1,0 +1,309 @@
+{
+    "index": "DIV1500567359.85", 
+    "top": 0, 
+    "id": "", 
+    "width": 1180, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 17, 
+            "id": "", 
+            "width": 163, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 77, 
+            "class": "logo logo-tej ct", 
+            "left": 0
+        }, 
+        {
+            "top": 0, 
+            "id": "", 
+            "width": 500, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 32, 
+                    "id": "", 
+                    "width": 500, 
+                    "tag": "FORM", 
+                    "leaves": [
+                        {
+                            "top": 33, 
+                            "id": "", 
+                            "width": 459, 
+                            "tag": "DIV", 
+                            "leaves": [
+                                {
+                                    "top": 33, 
+                                    "id": "", 
+                                    "width": 439, 
+                                    "tag": "INPUT", 
+                                    "leaves": [], 
+                                    "height": 36, 
+                                    "class": "js-formtxt", 
+                                    "left": 351
+                                }
+                            ], 
+                            "height": 36, 
+                            "class": "input", 
+                            "left": 341
+                        }, 
+                        {
+                            "top": 33, 
+                            "id": "", 
+                            "width": 39, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 41, 
+                                    "id": "", 
+                                    "width": 22, 
+                                    "tag": "I", 
+                                    "leaves": [], 
+                                    "height": 22, 
+                                    "class": "icon icon-search", 
+                                    "left": 809
+                                }
+                            ], 
+                            "height": 38, 
+                            "class": "ser-btn js-formbtn", 
+                            "left": 800
+                        }
+                    ], 
+                    "height": 40, 
+                    "class": "searchbox cf js-form", 
+                    "left": 340
+                }, 
+                {
+                    "top": 72, 
+                    "id": "", 
+                    "width": 500, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 72, 
+                            "id": "", 
+                            "width": 500, 
+                            "tag": "UL", 
+                            "leaves": [
+                                {
+                                    "top": 72, 
+                                    "id": "", 
+                                    "width": 56, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 77, 
+                                            "id": "", 
+                                            "width": 56, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 19, 
+                                            "class": "", 
+                                            "left": 340
+                                        }
+                                    ], 
+                                    "height": 22, 
+                                    "class": "", 
+                                    "left": 340
+                                }, 
+                                {
+                                    "top": 72, 
+                                    "id": "", 
+                                    "width": 28, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 77, 
+                                            "id": "", 
+                                            "width": 28, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 19, 
+                                            "class": "", 
+                                            "left": 411
+                                        }
+                                    ], 
+                                    "height": 22, 
+                                    "class": "", 
+                                    "left": 411
+                                }, 
+                                {
+                                    "top": 72, 
+                                    "id": "", 
+                                    "width": 42, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 77, 
+                                            "id": "", 
+                                            "width": 42, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 19, 
+                                            "class": "", 
+                                            "left": 454
+                                        }
+                                    ], 
+                                    "height": 22, 
+                                    "class": "", 
+                                    "left": 454
+                                }, 
+                                {
+                                    "top": 72, 
+                                    "id": "", 
+                                    "width": 28, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 77, 
+                                            "id": "", 
+                                            "width": 28, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 19, 
+                                            "class": "", 
+                                            "left": 511
+                                        }
+                                    ], 
+                                    "height": 22, 
+                                    "class": "", 
+                                    "left": 511
+                                }, 
+                                {
+                                    "top": 72, 
+                                    "id": "", 
+                                    "width": 42, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 77, 
+                                            "id": "", 
+                                            "width": 42, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 19, 
+                                            "class": "", 
+                                            "left": 554
+                                        }
+                                    ], 
+                                    "height": 22, 
+                                    "class": "", 
+                                    "left": 554
+                                }, 
+                                {
+                                    "top": 72, 
+                                    "id": "", 
+                                    "width": 42, 
+                                    "tag": "LI", 
+                                    "leaves": [
+                                        {
+                                            "top": 77, 
+                                            "id": "", 
+                                            "width": 42, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 19, 
+                                            "class": "", 
+                                            "left": 611
+                                        }
+                                    ], 
+                                    "height": 22, 
+                                    "class": "", 
+                                    "left": 611
+                                }
+                            ], 
+                            "height": 22, 
+                            "class": "cf", 
+                            "left": 340
+                        }
+                    ], 
+                    "height": 22, 
+                    "class": "hotword", 
+                    "left": 340
+                }
+            ], 
+            "height": 94, 
+            "class": "search-wrapper", 
+            "left": 340
+        }, 
+        {
+            "top": 0, 
+            "id": "", 
+            "width": 238, 
+            "tag": "UL", 
+            "leaves": [
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 94, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 55, 
+                            "id": "", 
+                            "width": 94, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 55, 
+                                    "id": "", 
+                                    "width": 17, 
+                                    "tag": "I", 
+                                    "leaves": [], 
+                                    "height": 17, 
+                                    "class": "icon icon-haitao", 
+                                    "left": 967
+                                }
+                            ], 
+                            "height": 24, 
+                            "class": "", 
+                            "left": 967
+                        }
+                    ], 
+                    "height": 18, 
+                    "class": "", 
+                    "left": 967
+                }, 
+                {
+                    "top": 54, 
+                    "id": "", 
+                    "width": 94, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 55, 
+                            "id": "", 
+                            "width": 94, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 55, 
+                                    "id": "", 
+                                    "width": 17, 
+                                    "tag": "I", 
+                                    "leaves": [], 
+                                    "height": 17, 
+                                    "class": "icon icon-shangjia", 
+                                    "left": 1086
+                                }
+                            ], 
+                            "height": 24, 
+                            "class": "", 
+                            "left": 1086
+                        }
+                    ], 
+                    "height": 18, 
+                    "class": "", 
+                    "left": 1086
+                }
+            ], 
+            "height": 72, 
+            "class": "head-list cf", 
+            "left": 942
+        }
+    ], 
+    "height": 112, 
+    "class": "header cf", 
+    "left": 0
+}

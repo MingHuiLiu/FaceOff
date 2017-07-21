@@ -1,0 +1,74 @@
+{
+    "index": "DIV1500567330.71", 
+    "top": 3102, 
+    "id": "", 
+    "width": 861, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 3102, 
+            "id": "", 
+            "width": 556, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 3102, 
+                    "id": "", 
+                    "width": 555, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 3102, 
+                            "id": "bottom_form_querytext", 
+                            "width": 517, 
+                            "tag": "INPUT", 
+                            "leaves": [], 
+                            "height": 30, 
+                            "class": "query", 
+                            "left": 121
+                        }, 
+                        {
+                            "top": 3110, 
+                            "id": "bottom_qreset", 
+                            "width": 16, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 16, 
+                            "class": "qreset2", 
+                            "left": 651
+                        }
+                    ], 
+                    "height": 32, 
+                    "class": "qborder2", 
+                    "left": 121
+                }
+            ], 
+            "height": 34, 
+            "class": "qborder", 
+            "left": 121
+        }, 
+        {
+            "top": 3102, 
+            "id": "bottom_form_searchBt", 
+            "width": 100, 
+            "tag": "INPUT", 
+            "leaves": [], 
+            "height": 34, 
+            "class": "sbtn1", 
+            "left": 677
+        }, 
+        {
+            "top": 3112, 
+            "id": "result_gaoji_ABC", 
+            "width": 48, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "sogouhome", 
+            "left": 802
+        }
+    ], 
+    "height": 35, 
+    "class": "querybox", 
+    "left": 121
+}

@@ -1,0 +1,117 @@
+{
+    "index": "TR1500567313.11", 
+    "top": 1702, 
+    "id": "", 
+    "width": 535, 
+    "tag": "TR", 
+    "leaves": [
+        {
+            "top": 1702, 
+            "id": "", 
+            "width": 104, 
+            "tag": "TD", 
+            "leaves": [
+                {
+                    "top": 1706, 
+                    "id": "sogou_99999_1", 
+                    "width": 84, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 121
+                }
+            ], 
+            "height": 26, 
+            "class": "", 
+            "left": 121
+        }, 
+        {
+            "top": 1702, 
+            "id": "", 
+            "width": 118, 
+            "tag": "TD", 
+            "leaves": [
+                {
+                    "top": 1706, 
+                    "id": "sogou_99999_2", 
+                    "width": 84, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 225
+                }
+            ], 
+            "height": 26, 
+            "class": "", 
+            "left": 225
+        }, 
+        {
+            "top": 1702, 
+            "id": "", 
+            "width": 104, 
+            "tag": "TD", 
+            "leaves": [
+                {
+                    "top": 1706, 
+                    "id": "sogou_99999_3", 
+                    "width": 84, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 343
+                }
+            ], 
+            "height": 26, 
+            "class": "", 
+            "left": 343
+        }, 
+        {
+            "top": 1702, 
+            "id": "", 
+            "width": 91, 
+            "tag": "TD", 
+            "leaves": [
+                {
+                    "top": 1706, 
+                    "id": "sogou_99999_4", 
+                    "width": 35, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 447
+                }
+            ], 
+            "height": 26, 
+            "class": "", 
+            "left": 447
+        }, 
+        {
+            "top": 1702, 
+            "id": "", 
+            "width": 118, 
+            "tag": "TD", 
+            "leaves": [
+                {
+                    "top": 1706, 
+                    "id": "sogou_99999_5", 
+                    "width": 98, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 538
+                }
+            ], 
+            "height": 26, 
+            "class": "", 
+            "left": 538
+        }
+    ], 
+    "height": 26, 
+    "class": "", 
+    "left": 121
+}

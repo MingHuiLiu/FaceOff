@@ -1,0 +1,168 @@
+{
+    "index": "UL1500567327.04", 
+    "top": 2351, 
+    "id": "", 
+    "width": 550, 
+    "tag": "UL", 
+    "leaves": [
+        {
+            "top": 2351, 
+            "id": "", 
+            "width": 416, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 2351, 
+                    "id": "", 
+                    "width": 53, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 22, 
+                    "class": "", 
+                    "left": 618
+                }, 
+                {
+                    "top": 2354, 
+                    "id": "sogou_vr_30002401_link_1_12", 
+                    "width": 198, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 255
+                }, 
+                {
+                    "top": 2357, 
+                    "id": "", 
+                    "width": 14, 
+                    "tag": "I", 
+                    "leaves": [], 
+                    "height": 14, 
+                    "class": "blue-top", 
+                    "left": 457
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 255
+        }, 
+        {
+            "top": 2378, 
+            "id": "", 
+            "width": 416, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 2378, 
+                    "id": "", 
+                    "width": 61, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 22, 
+                    "class": "", 
+                    "left": 610
+                }, 
+                {
+                    "top": 2381, 
+                    "id": "sogou_vr_30002401_link_2_12", 
+                    "width": 143, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 2381, 
+                            "id": "", 
+                            "width": 52, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 346
+                        }
+                    ], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 255
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 255
+        }, 
+        {
+            "top": 2405, 
+            "id": "", 
+            "width": 416, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 2405, 
+                    "id": "", 
+                    "width": 46, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 22, 
+                    "class": "", 
+                    "left": 625
+                }, 
+                {
+                    "top": 2408, 
+                    "id": "sogou_vr_30002401_link_3_12", 
+                    "width": 169, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 255
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 255
+        }, 
+        {
+            "top": 2432, 
+            "id": "", 
+            "width": 416, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 2432, 
+                    "id": "", 
+                    "width": 46, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 22, 
+                    "class": "", 
+                    "left": 625
+                }, 
+                {
+                    "top": 2435, 
+                    "id": "sogou_vr_30002401_link_4_12", 
+                    "width": 130, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 2435, 
+                            "id": "", 
+                            "width": 52, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 281
+                        }
+                    ], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 255
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 255
+        }
+    ], 
+    "height": 108, 
+    "class": "bar-list", 
+    "left": 121
+}

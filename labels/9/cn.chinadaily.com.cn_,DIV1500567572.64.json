@@ -1,0 +1,42 @@
+{
+    "index": "DIV1500567572.64", 
+    "top": 3708, 
+    "id": "", 
+    "width": 360, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 3710, 
+            "id": "", 
+            "width": 69, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 21, 
+            "class": "am-footer-ysp", 
+            "left": 117
+        }, 
+        {
+            "top": 3710, 
+            "id": "", 
+            "width": 10, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 21, 
+            "class": "am-footer-divider", 
+            "left": 186
+        }, 
+        {
+            "top": 3710, 
+            "id": "godesktop", 
+            "width": 49, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 21, 
+            "class": "am-footer-desktop", 
+            "left": 195
+        }
+    ], 
+    "height": 25, 
+    "class": "am-footer-switch", 
+    "left": 0
+}

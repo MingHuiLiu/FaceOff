@@ -1,0 +1,76 @@
+{
+    "index": "UL1500567361.36", 
+    "top": 0, 
+    "id": "", 
+    "width": 238, 
+    "tag": "UL", 
+    "leaves": [
+        {
+            "top": 54, 
+            "id": "", 
+            "width": 94, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 55, 
+                    "id": "", 
+                    "width": 94, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 55, 
+                            "id": "", 
+                            "width": 17, 
+                            "tag": "I", 
+                            "leaves": [], 
+                            "height": 17, 
+                            "class": "icon icon-haitao", 
+                            "left": 967
+                        }
+                    ], 
+                    "height": 24, 
+                    "class": "", 
+                    "left": 967
+                }
+            ], 
+            "height": 18, 
+            "class": "", 
+            "left": 967
+        }, 
+        {
+            "top": 54, 
+            "id": "", 
+            "width": 94, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 55, 
+                    "id": "", 
+                    "width": 94, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 55, 
+                            "id": "", 
+                            "width": 17, 
+                            "tag": "I", 
+                            "leaves": [], 
+                            "height": 17, 
+                            "class": "icon icon-shangjia", 
+                            "left": 1086
+                        }
+                    ], 
+                    "height": 24, 
+                    "class": "", 
+                    "left": 1086
+                }
+            ], 
+            "height": 18, 
+            "class": "", 
+            "left": 1086
+        }
+    ], 
+    "height": 72, 
+    "class": "head-list cf", 
+    "left": 942
+}

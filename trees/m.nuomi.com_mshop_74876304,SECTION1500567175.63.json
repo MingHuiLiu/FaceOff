@@ -1,0 +1,69 @@
+{
+    "index": "SECTION1500567175.63", 
+    "top": 403, 
+    "height": 193, 
+    "width": 360, 
+    "tag": "SECTION", 
+    "leaves": [
+        {
+            "top": 403, 
+            "height": 42, 
+            "width": 346, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 415, 
+                    "height": 17, 
+                    "width": 60, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "left": 14
+                }, 
+                {
+                    "top": 417, 
+                    "height": 8, 
+                    "width": 8, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "left": 336
+                }
+            ], 
+            "left": 14
+        }, 
+        {
+            "top": 445, 
+            "height": 107, 
+            "width": 346, 
+            "tag": "ARTICLE", 
+            "leaves": [
+                {
+                    "top": 456, 
+                    "height": 85, 
+                    "width": 332, 
+                    "tag": "P", 
+                    "leaves": [
+                        {
+                            "top": 459, 
+                            "height": 16, 
+                            "width": 52, 
+                            "tag": "STRONG", 
+                            "leaves": [], 
+                            "left": 14
+                        }
+                    ], 
+                    "left": 14
+                }
+            ], 
+            "left": 14
+        }, 
+        {
+            "top": 567, 
+            "height": 14, 
+            "width": 346, 
+            "tag": "ARTICLE", 
+            "leaves": [], 
+            "left": 14
+        }
+    ], 
+    "left": 0
+}

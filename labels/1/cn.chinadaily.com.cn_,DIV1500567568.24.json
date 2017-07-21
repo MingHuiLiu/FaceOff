@@ -1,0 +1,189 @@
+{
+    "index": "DIV1500567568.24", 
+    "top": 39, 
+    "id": "", 
+    "width": 360, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 39, 
+            "id": "", 
+            "width": 360, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 39, 
+                    "id": "", 
+                    "width": 4320, 
+                    "tag": "UL", 
+                    "leaves": [
+                        {
+                            "top": 39, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "LI", 
+                            "leaves": [], 
+                            "height": 202, 
+                            "class": "clone", 
+                            "left": 0
+                        }, 
+                        {
+                            "top": 39, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "LI", 
+                            "leaves": [], 
+                            "height": 202, 
+                            "class": "", 
+                            "left": 360
+                        }, 
+                        {
+                            "top": 39, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "LI", 
+                            "leaves": [], 
+                            "height": 202, 
+                            "class": "", 
+                            "left": 720
+                        }, 
+                        {
+                            "top": 39, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "LI", 
+                            "leaves": [], 
+                            "height": 202, 
+                            "class": "am-active-slide", 
+                            "left": 1080
+                        }, 
+                        {
+                            "top": 39, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "LI", 
+                            "leaves": [], 
+                            "height": 202, 
+                            "class": "", 
+                            "left": 1440
+                        }, 
+                        {
+                            "top": 39, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "LI", 
+                            "leaves": [], 
+                            "height": 202, 
+                            "class": "clone", 
+                            "left": 1800
+                        }
+                    ], 
+                    "height": 202, 
+                    "class": "am-slides", 
+                    "left": 0
+                }
+            ], 
+            "height": 202, 
+            "class": "am-viewport", 
+            "left": 0
+        }, 
+        {
+            "top": 220, 
+            "id": "", 
+            "width": 24, 
+            "tag": "OL", 
+            "leaves": [
+                {
+                    "top": 220, 
+                    "id": "", 
+                    "width": 6, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 220, 
+                            "id": "", 
+                            "width": 6, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 6, 
+                            "class": "", 
+                            "left": 336
+                        }
+                    ], 
+                    "height": 6, 
+                    "class": "", 
+                    "left": 336
+                }, 
+                {
+                    "top": 220, 
+                    "id": "", 
+                    "width": 6, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 220, 
+                            "id": "", 
+                            "width": 6, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 6, 
+                            "class": "", 
+                            "left": 342
+                        }
+                    ], 
+                    "height": 6, 
+                    "class": "", 
+                    "left": 342
+                }, 
+                {
+                    "top": 220, 
+                    "id": "", 
+                    "width": 6, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 220, 
+                            "id": "", 
+                            "width": 6, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 6, 
+                            "class": "am-active", 
+                            "left": 348
+                        }
+                    ], 
+                    "height": 6, 
+                    "class": "", 
+                    "left": 348
+                }, 
+                {
+                    "top": 220, 
+                    "id": "", 
+                    "width": 6, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 220, 
+                            "id": "", 
+                            "width": 6, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 6, 
+                            "class": "", 
+                            "left": 354
+                        }
+                    ], 
+                    "height": 6, 
+                    "class": "", 
+                    "left": 354
+                }
+            ], 
+            "height": 6, 
+            "class": "am-control-nav am-control-paging", 
+            "left": 336
+        }
+    ], 
+    "height": 202, 
+    "class": "am-slider am-slider-c2 WIDGET-572f6d0a287303a090acf8eb index-slide am-no-layout", 
+    "left": 0
+}

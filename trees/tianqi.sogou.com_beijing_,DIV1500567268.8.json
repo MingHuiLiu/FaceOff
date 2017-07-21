@@ -1,0 +1,75 @@
+{
+    "index": "DIV1500567268.8", 
+    "top": 447, 
+    "id": "tanxssp_con_mm_14626936_6548360_28200684", 
+    "width": 300, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 447, 
+            "id": "tanxssp-outer-iframemm_14626936_6548360_28200684", 
+            "width": 300, 
+            "tag": "IFRAME", 
+            "leaves": [], 
+            "height": 250, 
+            "class": "", 
+            "left": 648
+        }, 
+        {
+            "top": 684, 
+            "id": "", 
+            "width": 35, 
+            "tag": "INS", 
+            "leaves": [
+                {
+                    "top": 685, 
+                    "id": "", 
+                    "width": 35, 
+                    "tag": "INS", 
+                    "leaves": [], 
+                    "height": 13, 
+                    "class": "", 
+                    "left": 893
+                }
+            ], 
+            "height": 13, 
+            "class": "", 
+            "left": 893
+        }, 
+        {
+            "top": 684, 
+            "id": "sxmm_14626936_6548360_28200684", 
+            "width": 20, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 684, 
+                    "id": "sx1mm_14626936_6548360_28200684", 
+                    "width": 20, 
+                    "tag": "SPAN", 
+                    "leaves": [
+                        {
+                            "top": 684, 
+                            "id": "", 
+                            "width": 20, 
+                            "tag": "IMG", 
+                            "leaves": [], 
+                            "height": 13, 
+                            "class": "", 
+                            "left": 928
+                        }
+                    ], 
+                    "height": 13, 
+                    "class": "", 
+                    "left": 928
+                }
+            ], 
+            "height": 13, 
+            "class": "", 
+            "left": 928
+        }
+    ], 
+    "height": 250, 
+    "class": "", 
+    "left": 648
+}

@@ -1,0 +1,296 @@
+{
+    "index": "LI1500567284.56", 
+    "top": 674, 
+    "id": "", 
+    "width": 729, 
+    "tag": "LI", 
+    "leaves": [
+        {
+            "top": 694, 
+            "id": "", 
+            "width": 173, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 694, 
+                    "id": "", 
+                    "width": 61, 
+                    "tag": "DIV", 
+                    "leaves": [], 
+                    "height": 61, 
+                    "class": "tripType gentuan", 
+                    "left": 0
+                }
+            ], 
+            "height": 127, 
+            "class": "t-l", 
+            "left": 0
+        }, 
+        {
+            "top": 694, 
+            "id": "", 
+            "width": 414, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 694, 
+                    "id": "", 
+                    "width": 412, 
+                    "tag": "H3", 
+                    "leaves": [
+                        {
+                            "top": 695, 
+                            "id": "", 
+                            "width": 841, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 695, 
+                                    "id": "", 
+                                    "width": 49, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 14, 
+                                    "class": "types", 
+                                    "left": 198
+                                }
+                            ], 
+                            "height": 14, 
+                            "class": "", 
+                            "left": 198
+                        }
+                    ], 
+                    "height": 28, 
+                    "class": "head", 
+                    "left": 198
+                }, 
+                {
+                    "top": 722, 
+                    "id": "", 
+                    "width": 414, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 722, 
+                            "id": "", 
+                            "width": 108, 
+                            "tag": "P", 
+                            "leaves": [
+                                {
+                                    "top": 729, 
+                                    "id": "", 
+                                    "width": 36, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 12, 
+                                    "class": "th", 
+                                    "left": 198
+                                }, 
+                                {
+                                    "top": 728, 
+                                    "id": "", 
+                                    "width": 60, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 16, 
+                                    "class": "icon i-plain", 
+                                    "left": 240
+                                }
+                            ], 
+                            "height": 26, 
+                            "class": "tr", 
+                            "left": 198
+                        }, 
+                        {
+                            "top": 722, 
+                            "id": "", 
+                            "width": 108, 
+                            "tag": "P", 
+                            "leaves": [
+                                {
+                                    "top": 729, 
+                                    "id": "", 
+                                    "width": 36, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 12, 
+                                    "class": "th", 
+                                    "left": 306
+                                }, 
+                                {
+                                    "top": 728, 
+                                    "id": "", 
+                                    "width": 60, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 16, 
+                                    "class": "icon i-plain", 
+                                    "left": 348
+                                }
+                            ], 
+                            "height": 26, 
+                            "class": "tr", 
+                            "left": 306
+                        }
+                    ], 
+                    "height": 26, 
+                    "class": "item cf", 
+                    "left": 198
+                }, 
+                {
+                    "top": 748, 
+                    "id": "", 
+                    "width": 414, 
+                    "tag": "DL", 
+                    "leaves": [
+                        {
+                            "top": 755, 
+                            "id": "", 
+                            "width": 36, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 12, 
+                            "class": "th", 
+                            "left": 198
+                        }, 
+                        {
+                            "top": 755, 
+                            "id": "", 
+                            "width": 246, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 12, 
+                            "class": "info", 
+                            "left": 240
+                        }
+                    ], 
+                    "height": 26, 
+                    "class": "item", 
+                    "left": 198
+                }, 
+                {
+                    "top": 774, 
+                    "id": "", 
+                    "width": 414, 
+                    "tag": "DL", 
+                    "leaves": [
+                        {
+                            "top": 774, 
+                            "id": "", 
+                            "width": 36, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 26, 
+                            "class": "th", 
+                            "left": 198
+                        }, 
+                        {
+                            "top": 774, 
+                            "id": "", 
+                            "width": 374, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 26, 
+                            "class": "info", 
+                            "left": 234
+                        }
+                    ], 
+                    "height": 26, 
+                    "class": "item additem cf", 
+                    "left": 198
+                }
+            ], 
+            "height": 106, 
+            "class": "t-m", 
+            "left": 198
+        }, 
+        {
+            "top": 694, 
+            "id": "", 
+            "width": 86, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 704, 
+                    "id": "", 
+                    "width": 86, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 707, 
+                            "id": "", 
+                            "width": 53, 
+                            "tag": "SPAN", 
+                            "leaves": [
+                                {
+                                    "top": 707, 
+                                    "id": "", 
+                                    "width": 40, 
+                                    "tag": "EM", 
+                                    "leaves": [], 
+                                    "height": 20, 
+                                    "class": "", 
+                                    "left": 654
+                                }
+                            ], 
+                            "height": 20, 
+                            "class": "pr", 
+                            "left": 641
+                        }
+                    ], 
+                    "height": 27, 
+                    "class": "price", 
+                    "left": 633
+                }, 
+                {
+                    "top": 732, 
+                    "id": "", 
+                    "width": 86, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 732, 
+                            "id": "", 
+                            "width": 86, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 27, 
+                            "class": "more", 
+                            "left": 633
+                        }
+                    ], 
+                    "height": 27, 
+                    "class": "ops_1", 
+                    "left": 633
+                }, 
+                {
+                    "top": 806, 
+                    "id": "", 
+                    "width": 86, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 807, 
+                            "id": "", 
+                            "width": 60, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 12, 
+                            "class": "impress", 
+                            "left": 646
+                        }
+                    ], 
+                    "height": 14, 
+                    "class": "ops_2", 
+                    "left": 633
+                }
+            ], 
+            "height": 126, 
+            "class": "t-r", 
+            "left": 633
+        }
+    ], 
+    "height": 162, 
+    "class": "cf", 
+    "left": 0
+}

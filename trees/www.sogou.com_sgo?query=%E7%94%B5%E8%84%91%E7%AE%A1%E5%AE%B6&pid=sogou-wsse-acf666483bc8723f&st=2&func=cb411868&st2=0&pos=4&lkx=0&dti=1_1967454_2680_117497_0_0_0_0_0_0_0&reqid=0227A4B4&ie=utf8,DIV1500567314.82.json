@@ -1,0 +1,32 @@
+{
+    "index": "DIV1500567314.82", 
+    "top": 12, 
+    "id": "", 
+    "width": 555, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 12, 
+            "id": "upquery", 
+            "width": 517, 
+            "tag": "INPUT", 
+            "leaves": [], 
+            "height": 30, 
+            "class": "query", 
+            "left": 115
+        }, 
+        {
+            "top": 20, 
+            "id": "top_qreset", 
+            "width": 16, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 16, 
+            "class": "qreset2", 
+            "left": 645
+        }
+    ], 
+    "height": 32, 
+    "class": "qborder2", 
+    "left": 115
+}

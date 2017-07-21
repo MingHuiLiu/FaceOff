@@ -1,0 +1,42 @@
+{
+    "index": "SPAN1500567347.06", 
+    "top": 1531, 
+    "id": "sogou_vr_30000909_pink_9", 
+    "width": 36, 
+    "tag": "SPAN", 
+    "leaves": [
+        {
+            "top": 1535, 
+            "id": "", 
+            "width": 4, 
+            "tag": "STRONG", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "", 
+            "left": 121
+        }, 
+        {
+            "top": 1535, 
+            "id": "", 
+            "width": 25, 
+            "tag": "I", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "", 
+            "left": 127
+        }, 
+        {
+            "top": 1535, 
+            "id": "", 
+            "width": 5, 
+            "tag": "STRONG", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "", 
+            "left": 153
+        }
+    ], 
+    "height": 14, 
+    "class": "str-c-txt blue-color", 
+    "left": 121
+}

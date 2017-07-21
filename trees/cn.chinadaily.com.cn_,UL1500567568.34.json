@@ -1,0 +1,72 @@
+{
+    "index": "UL1500567568.34", 
+    "top": 39, 
+    "id": "", 
+    "width": 4320, 
+    "tag": "UL", 
+    "leaves": [
+        {
+            "top": 39, 
+            "id": "", 
+            "width": 360, 
+            "tag": "LI", 
+            "leaves": [], 
+            "height": 202, 
+            "class": "clone", 
+            "left": 0
+        }, 
+        {
+            "top": 39, 
+            "id": "", 
+            "width": 360, 
+            "tag": "LI", 
+            "leaves": [], 
+            "height": 202, 
+            "class": "", 
+            "left": 360
+        }, 
+        {
+            "top": 39, 
+            "id": "", 
+            "width": 360, 
+            "tag": "LI", 
+            "leaves": [], 
+            "height": 202, 
+            "class": "", 
+            "left": 720
+        }, 
+        {
+            "top": 39, 
+            "id": "", 
+            "width": 360, 
+            "tag": "LI", 
+            "leaves": [], 
+            "height": 202, 
+            "class": "am-active-slide", 
+            "left": 1080
+        }, 
+        {
+            "top": 39, 
+            "id": "", 
+            "width": 360, 
+            "tag": "LI", 
+            "leaves": [], 
+            "height": 202, 
+            "class": "", 
+            "left": 1440
+        }, 
+        {
+            "top": 39, 
+            "id": "", 
+            "width": 360, 
+            "tag": "LI", 
+            "leaves": [], 
+            "height": 202, 
+            "class": "clone", 
+            "left": 1800
+        }
+    ], 
+    "height": 202, 
+    "class": "am-slides", 
+    "left": 0
+}

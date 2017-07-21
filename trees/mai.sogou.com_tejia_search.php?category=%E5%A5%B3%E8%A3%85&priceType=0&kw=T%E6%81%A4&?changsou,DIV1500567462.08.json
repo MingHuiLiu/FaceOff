@@ -1,0 +1,84 @@
+{
+    "index": "DIV1500567462.08", 
+    "top": 9863, 
+    "id": "", 
+    "width": 1180, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 9863, 
+            "id": "", 
+            "width": 1180, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 9862, 
+                    "id": "", 
+                    "width": 48, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 498
+                }, 
+                {
+                    "top": 9862, 
+                    "id": "", 
+                    "width": 48, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 566
+                }, 
+                {
+                    "top": 9862, 
+                    "id": "", 
+                    "width": 48, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 634
+                }
+            ], 
+            "height": 14, 
+            "class": "tp", 
+            "left": 0
+        }, 
+        {
+            "top": 9884, 
+            "id": "", 
+            "width": 297, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 16, 
+            "class": "", 
+            "left": 384
+        }, 
+        {
+            "top": 9884, 
+            "id": "", 
+            "width": 118, 
+            "tag": "EM", 
+            "leaves": [
+                {
+                    "top": 9884, 
+                    "id": "", 
+                    "width": 98, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "record", 
+                    "left": 689
+                }
+            ], 
+            "height": 16, 
+            "class": "", 
+            "left": 689
+        }
+    ], 
+    "height": 36, 
+    "class": "footer", 
+    "left": 0
+}

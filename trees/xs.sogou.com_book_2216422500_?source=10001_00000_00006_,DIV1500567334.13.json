@@ -1,0 +1,32 @@
+{
+    "index": "DIV1500567334.13", 
+    "top": 1166, 
+    "id": "", 
+    "width": 952, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1171, 
+            "id": "", 
+            "width": 72, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 24, 
+            "class": "text-title", 
+            "left": 0
+        }, 
+        {
+            "top": 1167, 
+            "id": "freshGuess", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 35, 
+            "class": "r fresh", 
+            "left": 916
+        }
+    ], 
+    "height": 37, 
+    "class": "bdr-tit", 
+    "left": 0
+}

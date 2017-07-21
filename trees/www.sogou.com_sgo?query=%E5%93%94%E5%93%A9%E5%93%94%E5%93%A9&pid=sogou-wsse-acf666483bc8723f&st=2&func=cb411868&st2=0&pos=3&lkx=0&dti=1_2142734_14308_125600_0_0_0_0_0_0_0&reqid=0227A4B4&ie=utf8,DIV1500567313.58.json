@@ -1,0 +1,62 @@
+{
+    "index": "DIV1500567313.58", 
+    "top": 1961, 
+    "id": "s_footer", 
+    "width": 1108, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1966, 
+            "id": "sogou_webhelp", 
+            "width": 53, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 342
+        }, 
+        {
+            "top": 1966, 
+            "id": "sogou_feedback", 
+            "width": 92, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 398
+        }, 
+        {
+            "top": 1966, 
+            "id": "sogou_jubao", 
+            "width": 27, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 493
+        }, 
+        {
+            "top": 1966, 
+            "id": "sogou_weibo", 
+            "width": 53, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 523
+        }, 
+        {
+            "top": 1966, 
+            "id": "sogou_mianze", 
+            "width": 53, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "g", 
+            "left": 714
+        }
+    ], 
+    "height": 26, 
+    "class": "cr", 
+    "left": 0
+}

@@ -1,0 +1,98 @@
+{
+    "index": "FOOTER1500567180.68", 
+    "top": 1739, 
+    "height": 119, 
+    "width": 360, 
+    "tag": "FOOTER", 
+    "leaves": [
+        {
+            "top": 1762, 
+            "height": 12, 
+            "width": 25, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 72
+        }, 
+        {
+            "top": 1762, 
+            "height": 12, 
+            "width": 11, 
+            "tag": "EM", 
+            "leaves": [], 
+            "left": 96
+        }, 
+        {
+            "top": 1762, 
+            "height": 12, 
+            "width": 49, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 111
+        }, 
+        {
+            "top": 1762, 
+            "height": 12, 
+            "width": 12, 
+            "tag": "EM", 
+            "leaves": [], 
+            "left": 159
+        }, 
+        {
+            "top": 1762, 
+            "height": 12, 
+            "width": 49, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 173
+        }, 
+        {
+            "top": 1762, 
+            "height": 12, 
+            "width": 11, 
+            "tag": "EM", 
+            "leaves": [], 
+            "left": 221
+        }, 
+        {
+            "top": 1762, 
+            "height": 12, 
+            "width": 49, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 236
+        }, 
+        {
+            "top": 1790, 
+            "height": 12, 
+            "width": 37, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 135
+        }, 
+        {
+            "top": 1790, 
+            "height": 12, 
+            "width": 12, 
+            "tag": "EM", 
+            "leaves": [], 
+            "left": 171
+        }, 
+        {
+            "top": 1790, 
+            "height": 12, 
+            "width": 37, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 185
+        }, 
+        {
+            "top": 1830, 
+            "height": 18, 
+            "width": 350, 
+            "tag": "P", 
+            "leaves": [], 
+            "left": 5
+        }
+    ], 
+    "left": 0
+}

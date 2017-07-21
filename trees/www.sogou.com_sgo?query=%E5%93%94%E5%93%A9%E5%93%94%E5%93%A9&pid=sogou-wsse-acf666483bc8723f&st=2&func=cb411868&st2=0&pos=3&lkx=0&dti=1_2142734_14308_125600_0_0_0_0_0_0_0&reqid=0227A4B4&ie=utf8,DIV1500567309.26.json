@@ -1,0 +1,85 @@
+{
+    "index": "DIV1500567309.26", 
+    "top": 568, 
+    "id": "rb_3", 
+    "width": 550, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 569, 
+            "id": "", 
+            "width": 550, 
+            "tag": "H3", 
+            "leaves": [
+                {
+                    "top": 572, 
+                    "id": "uigs__3", 
+                    "width": 191, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 572, 
+                            "id": "", 
+                            "width": 65, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 17, 
+                            "class": "", 
+                            "left": 167
+                        }
+                    ], 
+                    "height": 17, 
+                    "class": "", 
+                    "left": 121
+                }
+            ], 
+            "height": 24, 
+            "class": "pt", 
+            "left": 121
+        }, 
+        {
+            "top": 593, 
+            "id": "cacheresult_summary_3", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [], 
+            "height": 40, 
+            "class": "ft", 
+            "left": 121
+        }, 
+        {
+            "top": 633, 
+            "id": "", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 633, 
+                    "id": "cacheresult_info_3", 
+                    "width": 279, 
+                    "tag": "CITE", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 121
+                }, 
+                {
+                    "top": 635, 
+                    "id": "sogou_snapshot_3", 
+                    "width": 27, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 412
+                }
+            ], 
+            "height": 22, 
+            "class": "fb", 
+            "left": 121
+        }
+    ], 
+    "height": 87, 
+    "class": "rb", 
+    "left": 121
+}

@@ -1,0 +1,32 @@
+{
+    "index": "DD1500567322.23", 
+    "top": 1387, 
+    "id": "", 
+    "width": 174, 
+    "tag": "DD", 
+    "leaves": [
+        {
+            "top": 1389, 
+            "id": "", 
+            "width": 57, 
+            "tag": "CITE", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 210
+        }, 
+        {
+            "top": 1389, 
+            "id": "", 
+            "width": 105, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 279
+        }
+    ], 
+    "height": 20, 
+    "class": "", 
+    "left": 210
+}

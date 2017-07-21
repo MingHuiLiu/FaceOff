@@ -1,0 +1,32 @@
+{
+    "index": "DIV1500567337.21", 
+    "top": 506, 
+    "id": "", 
+    "width": 218, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 511, 
+            "id": "", 
+            "width": 54, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 24, 
+            "class": "text-title", 
+            "left": 982
+        }, 
+        {
+            "top": 507, 
+            "id": "", 
+            "width": 30, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 35, 
+            "class": "r", 
+            "left": 1170
+        }
+    ], 
+    "height": 37, 
+    "class": "bdr-tit", 
+    "left": 982
+}

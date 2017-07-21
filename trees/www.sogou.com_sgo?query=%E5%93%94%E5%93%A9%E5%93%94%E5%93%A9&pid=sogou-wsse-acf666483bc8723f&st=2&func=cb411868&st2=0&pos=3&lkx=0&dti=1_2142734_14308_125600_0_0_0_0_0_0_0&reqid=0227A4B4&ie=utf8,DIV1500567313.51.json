@@ -1,0 +1,32 @@
+{
+    "index": "DIV1500567313.51", 
+    "top": 1876, 
+    "id": "", 
+    "width": 555, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1876, 
+            "id": "bottom_form_querytext", 
+            "width": 517, 
+            "tag": "INPUT", 
+            "leaves": [], 
+            "height": 30, 
+            "class": "query", 
+            "left": 121
+        }, 
+        {
+            "top": 1884, 
+            "id": "bottom_qreset", 
+            "width": 16, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 16, 
+            "class": "qreset2", 
+            "left": 651
+        }
+    ], 
+    "height": 32, 
+    "class": "qborder2", 
+    "left": 121
+}

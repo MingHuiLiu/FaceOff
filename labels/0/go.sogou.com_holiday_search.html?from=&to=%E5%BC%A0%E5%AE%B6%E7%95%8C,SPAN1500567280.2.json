@@ -1,0 +1,32 @@
+{
+    "index": "SPAN1500567280.2", 
+    "top": 80, 
+    "id": "", 
+    "width": 59, 
+    "tag": "SPAN", 
+    "leaves": [
+        {
+            "top": 82, 
+            "id": "", 
+            "width": 22, 
+            "tag": "I", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "icon_pub icon", 
+            "left": 370
+        }, 
+        {
+            "top": 80, 
+            "id": "", 
+            "width": 32, 
+            "tag": "STRONG", 
+            "leaves": [], 
+            "height": 30, 
+            "class": "", 
+            "left": 397
+        }
+    ], 
+    "height": 30, 
+    "class": "cf ticket", 
+    "left": 370
+}

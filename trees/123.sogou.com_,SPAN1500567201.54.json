@@ -1,0 +1,32 @@
+{
+    "index": "SPAN1500567201.54", 
+    "top": 39, 
+    "id": "", 
+    "width": 114, 
+    "tag": "SPAN", 
+    "leaves": [
+        {
+            "top": 43, 
+            "id": "", 
+            "width": 60, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "", 
+            "left": 370
+        }, 
+        {
+            "top": 42, 
+            "id": "", 
+            "width": 20, 
+            "tag": "I", 
+            "leaves": [], 
+            "height": 16, 
+            "class": "st-2", 
+            "left": 430
+        }
+    ], 
+    "height": 22, 
+    "class": "", 
+    "left": 370
+}

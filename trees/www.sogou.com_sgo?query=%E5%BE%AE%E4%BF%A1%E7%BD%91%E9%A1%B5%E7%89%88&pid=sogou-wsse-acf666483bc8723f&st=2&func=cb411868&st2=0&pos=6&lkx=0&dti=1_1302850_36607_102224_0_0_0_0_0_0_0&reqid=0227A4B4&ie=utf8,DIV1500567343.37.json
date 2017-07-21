@@ -1,0 +1,276 @@
+{
+    "index": "DIV1500567343.37", 
+    "top": 481, 
+    "id": "", 
+    "width": 550, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 481, 
+            "id": "sogou_vr_70010901_main_2", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 481, 
+                    "id": "", 
+                    "width": 550, 
+                    "tag": "UL", 
+                    "leaves": [
+                        {
+                            "top": 481, 
+                            "id": "", 
+                            "width": 59, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 481, 
+                                    "id": "sogou_vr_70010901_new1117-tab-win_2", 
+                                    "width": 59, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 32, 
+                                    "class": "", 
+                                    "left": 121
+                                }
+                            ], 
+                            "height": 32, 
+                            "class": "cur", 
+                            "left": 121
+                        }, 
+                        {
+                            "top": 481, 
+                            "id": "", 
+                            "width": 73, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 481, 
+                                    "id": "sogou_vr_70010901_new1117-tab-IOS_2", 
+                                    "width": 73, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 32, 
+                                    "class": "", 
+                                    "left": 180
+                                }
+                            ], 
+                            "height": 32, 
+                            "class": "", 
+                            "left": 180
+                        }, 
+                        {
+                            "top": 481, 
+                            "id": "", 
+                            "width": 58, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 481, 
+                                    "id": "sogou_vr_70010901_new1117-tab-MAC_2", 
+                                    "width": 58, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 32, 
+                                    "class": "", 
+                                    "left": 253
+                                }
+                            ], 
+                            "height": 32, 
+                            "class": "", 
+                            "left": 253
+                        }, 
+                        {
+                            "top": 481, 
+                            "id": "", 
+                            "width": 59, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 481, 
+                                    "id": "sogou_vr_70010901_new1117-tab-IPAD_2", 
+                                    "width": 59, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 32, 
+                                    "class": "", 
+                                    "left": 311
+                                }
+                            ], 
+                            "height": 32, 
+                            "class": "", 
+                            "left": 311
+                        }
+                    ], 
+                    "height": 32, 
+                    "class": "tab-vr-lis js_tabTitle", 
+                    "left": 121
+                }
+            ], 
+            "height": 32, 
+            "class": "tab-vr-tit", 
+            "left": 121
+        }, 
+        {
+            "top": 513, 
+            "id": "", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 523, 
+                    "id": "", 
+                    "width": 66, 
+                    "tag": "DIV", 
+                    "leaves": [], 
+                    "height": 66, 
+                    "class": "img-box", 
+                    "left": 131
+                }, 
+                {
+                    "top": 513, 
+                    "id": "", 
+                    "width": 360, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 522, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "P", 
+                            "leaves": [
+                                {
+                                    "top": 524, 
+                                    "id": "swName", 
+                                    "width": 28, 
+                                    "tag": "STRONG", 
+                                    "leaves": [
+                                        {
+                                            "top": 524, 
+                                            "id": "", 
+                                            "width": 28, 
+                                            "tag": "EM", 
+                                            "leaves": [], 
+                                            "height": 16, 
+                                            "class": "", 
+                                            "left": 207
+                                        }
+                                    ], 
+                                    "height": 16, 
+                                    "class": "", 
+                                    "left": 207
+                                }
+                            ], 
+                            "height": 21, 
+                            "class": "tit", 
+                            "left": 207
+                        }, 
+                        {
+                            "top": 545, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "P", 
+                            "leaves": [
+                                {
+                                    "top": 547, 
+                                    "id": "", 
+                                    "width": 39, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 15, 
+                                    "class": "", 
+                                    "left": 207
+                                }
+                            ], 
+                            "height": 20, 
+                            "class": "", 
+                            "left": 207
+                        }, 
+                        {
+                            "top": 567, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "P", 
+                            "leaves": [
+                                {
+                                    "top": 569, 
+                                    "id": "", 
+                                    "width": 39, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 15, 
+                                    "class": "", 
+                                    "left": 207
+                                }
+                            ], 
+                            "height": 20, 
+                            "class": "", 
+                            "left": 207
+                        }, 
+                        {
+                            "top": 589, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "P", 
+                            "leaves": [
+                                {
+                                    "top": 591, 
+                                    "id": "", 
+                                    "width": 39, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 15, 
+                                    "class": "", 
+                                    "left": 207
+                                }
+                            ], 
+                            "height": 20, 
+                            "class": "", 
+                            "left": 207
+                        }, 
+                        {
+                            "top": 611, 
+                            "id": "", 
+                            "width": 360, 
+                            "tag": "DIV", 
+                            "leaves": [
+                                {
+                                    "top": 615, 
+                                    "id": "sogou_vr_70010901_new1117-spd-win_2", 
+                                    "width": 94, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 30, 
+                                    "class": "down-h", 
+                                    "left": 207
+                                }, 
+                                {
+                                    "top": 615, 
+                                    "id": "sogou_vr_70010901_new1117-nor-win_2", 
+                                    "width": 72, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 30, 
+                                    "class": "az", 
+                                    "left": 311
+                                }
+                            ], 
+                            "height": 39, 
+                            "class": "btn-box", 
+                            "left": 207
+                        }
+                    ], 
+                    "height": 137, 
+                    "class": "txt-box", 
+                    "left": 207
+                }
+            ], 
+            "height": 148, 
+            "class": "wx-tabbox js_tabBox", 
+            "left": 121
+        }
+    ], 
+    "height": 180, 
+    "class": "vr-soft-down161111", 
+    "left": 121
+}

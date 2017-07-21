@@ -1,0 +1,53 @@
+{
+    "index": "LI1500567348.64", 
+    "top": 1896, 
+    "id": "", 
+    "width": 550, 
+    "tag": "LI", 
+    "leaves": [
+        {
+            "top": 1897, 
+            "id": "", 
+            "width": 550, 
+            "tag": "P", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "clamp1", 
+            "left": 121
+        }, 
+        {
+            "top": 1919, 
+            "id": "", 
+            "width": 550, 
+            "tag": "P", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "clamp1", 
+            "left": 121
+        }, 
+        {
+            "top": 1941, 
+            "id": "", 
+            "width": 550, 
+            "tag": "P", 
+            "leaves": [
+                {
+                    "top": 1943, 
+                    "id": "", 
+                    "width": 77, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "more-box", 
+                    "left": 361
+                }
+            ], 
+            "height": 20, 
+            "class": "", 
+            "left": 121
+        }
+    ], 
+    "height": 68, 
+    "class": "", 
+    "left": 121
+}

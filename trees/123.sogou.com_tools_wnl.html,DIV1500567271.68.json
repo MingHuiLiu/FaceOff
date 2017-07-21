@@ -1,0 +1,42 @@
+{
+    "index": "DIV1500567271.68", 
+    "top": 0, 
+    "id": "uppertx", 
+    "width": 360, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 7, 
+            "id": "", 
+            "width": 49, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "", 
+            "left": 783
+        }, 
+        {
+            "top": 7, 
+            "id": "", 
+            "width": 49, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "", 
+            "left": 848
+        }, 
+        {
+            "top": 7, 
+            "id": "", 
+            "width": 48, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "", 
+            "left": 912
+        }
+    ], 
+    "height": 29, 
+    "class": "", 
+    "left": 600
+}

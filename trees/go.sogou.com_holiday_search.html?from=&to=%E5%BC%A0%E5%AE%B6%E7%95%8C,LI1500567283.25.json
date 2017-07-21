@@ -1,0 +1,82 @@
+{
+    "index": "LI1500567283.25", 
+    "top": 419, 
+    "id": "", 
+    "width": 729, 
+    "tag": "LI", 
+    "leaves": [
+        {
+            "top": 429, 
+            "id": "", 
+            "width": 60, 
+            "tag": "STRONG", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "type", 
+            "left": 0
+        }, 
+        {
+            "top": 429, 
+            "id": "", 
+            "width": 44, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "without active", 
+            "left": 63
+        }, 
+        {
+            "top": 429, 
+            "id": "", 
+            "width": 38, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 116
+        }, 
+        {
+            "top": 429, 
+            "id": "", 
+            "width": 38, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 163
+        }, 
+        {
+            "top": 429, 
+            "id": "", 
+            "width": 38, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 210
+        }, 
+        {
+            "top": 429, 
+            "id": "", 
+            "width": 44, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 257
+        }, 
+        {
+            "top": 429, 
+            "id": "", 
+            "width": 44, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 310
+        }
+    ], 
+    "height": 41, 
+    "class": "cf", 
+    "left": 0
+}

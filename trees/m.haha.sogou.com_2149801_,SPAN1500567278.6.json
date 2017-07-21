@@ -1,0 +1,32 @@
+{
+    "index": "SPAN1500567278.6", 
+    "top": 335, 
+    "id": "", 
+    "width": 338, 
+    "tag": "SPAN", 
+    "leaves": [
+        {
+            "top": 338, 
+            "id": "", 
+            "width": 17, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 18, 
+            "class": "up-to-cbox-ico", 
+            "left": 125
+        }, 
+        {
+            "top": 339, 
+            "id": "", 
+            "width": 86, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 17, 
+            "class": "up-to-cbox-text", 
+            "left": 149
+        }
+    ], 
+    "height": 25, 
+    "class": "up-to-cbox", 
+    "left": 11
+}

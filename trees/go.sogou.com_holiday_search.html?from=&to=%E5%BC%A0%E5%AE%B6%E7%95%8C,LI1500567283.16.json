@@ -1,0 +1,72 @@
+{
+    "index": "LI1500567283.16", 
+    "top": 379, 
+    "id": "", 
+    "width": 729, 
+    "tag": "LI", 
+    "leaves": [
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 60, 
+            "tag": "STRONG", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "type", 
+            "left": 0
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 44, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "without active", 
+            "left": 63
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 44, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 116
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 44, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 169
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 44, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 222
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 44, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "", 
+            "left": 275
+        }
+    ], 
+    "height": 41, 
+    "class": "cf", 
+    "left": 0
+}

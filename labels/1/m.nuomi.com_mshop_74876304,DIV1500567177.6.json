@@ -1,0 +1,26 @@
+{
+    "index": "DIV1500567177.6", 
+    "top": 1413, 
+    "height": 115, 
+    "width": 159, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1470, 
+            "height": 115, 
+            "width": 190, 
+            "tag": "IMG", 
+            "leaves": [], 
+            "left": 93
+        }, 
+        {
+            "top": 1502, 
+            "height": 26, 
+            "width": 159, 
+            "tag": "DIV", 
+            "leaves": [], 
+            "left": 14
+        }
+    ], 
+    "left": 14
+}

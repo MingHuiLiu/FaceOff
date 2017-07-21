@@ -1,0 +1,62 @@
+{
+    "index": "DIV1500567223.09", 
+    "top": 560, 
+    "id": "cs2_toggle", 
+    "width": 83, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 560, 
+            "id": "", 
+            "width": 19, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 19, 
+            "class": "prev", 
+            "left": 909
+        }, 
+        {
+            "top": 567, 
+            "id": "", 
+            "width": 5, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 5, 
+            "class": "ct dot cur", 
+            "left": 934
+        }, 
+        {
+            "top": 567, 
+            "id": "", 
+            "width": 5, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 5, 
+            "class": "ct dot", 
+            "left": 945
+        }, 
+        {
+            "top": 567, 
+            "id": "", 
+            "width": 5, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 5, 
+            "class": "ct dot", 
+            "left": 956
+        }, 
+        {
+            "top": 560, 
+            "id": "", 
+            "width": 19, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 19, 
+            "class": "next", 
+            "left": 967
+        }
+    ], 
+    "height": 19, 
+    "class": "toggle cf", 
+    "left": 903
+}

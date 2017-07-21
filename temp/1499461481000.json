@@ -1,0 +1,12 @@
+{
+  "title":"支付宝",
+  "url":"https://ds.alipay.com/?from=pc",
+  "tag":"BODY",
+  "top": 0,
+  "left": 0,
+  "width":360,
+  "height":640,
+  "leaves":
+  [
+  ]
+}

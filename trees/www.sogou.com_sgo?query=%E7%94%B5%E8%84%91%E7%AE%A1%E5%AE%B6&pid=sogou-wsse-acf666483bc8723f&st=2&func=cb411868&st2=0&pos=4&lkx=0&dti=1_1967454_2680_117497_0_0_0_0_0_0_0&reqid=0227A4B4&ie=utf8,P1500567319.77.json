@@ -1,0 +1,32 @@
+{
+    "index": "P1500567319.77", 
+    "top": 798, 
+    "id": "", 
+    "width": 446, 
+    "tag": "P", 
+    "leaves": [
+        {
+            "top": 801, 
+            "id": "", 
+            "width": 78, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 225
+        }, 
+        {
+            "top": 801, 
+            "id": "", 
+            "width": 52, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 420
+        }
+    ], 
+    "height": 42, 
+    "class": "str_info", 
+    "left": 225
+}

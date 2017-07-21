@@ -1,0 +1,35 @@
+{
+    "index": "DIV1500567176.22", 
+    "top": 853, 
+    "height": 16, 
+    "width": 139, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 853, 
+            "height": 16, 
+            "width": 43, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 852, 
+                    "height": 18, 
+                    "width": 16, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "left": 24
+                }
+            ], 
+            "left": 24
+        }, 
+        {
+            "top": 853, 
+            "height": 18, 
+            "width": 26, 
+            "tag": "DEL", 
+            "leaves": [], 
+            "left": 72
+        }
+    ], 
+    "left": 24
+}

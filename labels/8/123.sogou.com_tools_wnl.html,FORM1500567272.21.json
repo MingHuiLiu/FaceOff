@@ -1,0 +1,54 @@
+{
+    "index": "FORM1500567272.21", 
+    "top": 56, 
+    "id": "sgse_f", 
+    "width": 580, 
+    "tag": "FORM", 
+    "leaves": [
+        {
+            "top": 56, 
+            "id": "sgse_qb", 
+            "width": 382, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 57, 
+                    "id": "sgse_kw", 
+                    "width": 379, 
+                    "tag": "INPUT", 
+                    "leaves": [], 
+                    "height": 29, 
+                    "class": "", 
+                    "left": 221
+                }
+            ], 
+            "height": 32, 
+            "class": "", 
+            "left": 220
+        }, 
+        {
+            "top": 56, 
+            "id": "sgse_btn", 
+            "width": 87, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 56, 
+                    "id": "sgse_sb", 
+                    "width": 76, 
+                    "tag": "INPUT", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "", 
+                    "left": 613
+                }
+            ], 
+            "height": 32, 
+            "class": "", 
+            "left": 602
+        }
+    ], 
+    "height": 35, 
+    "class": "", 
+    "left": 220
+}

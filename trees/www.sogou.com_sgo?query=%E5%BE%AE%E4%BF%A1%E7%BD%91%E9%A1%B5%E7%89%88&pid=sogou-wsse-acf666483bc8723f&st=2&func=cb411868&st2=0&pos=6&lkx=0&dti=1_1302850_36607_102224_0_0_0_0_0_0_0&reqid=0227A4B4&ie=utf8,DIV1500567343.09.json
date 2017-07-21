@@ -1,0 +1,82 @@
+{
+    "index": "DIV1500567343.09", 
+    "top": 388, 
+    "id": "", 
+    "width": 318, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 52, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "", 
+            "left": 251
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 3, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "line-sp", 
+            "left": 311
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 52, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "", 
+            "left": 322
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 4, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "line-sp", 
+            "left": 382
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 52, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "", 
+            "left": 394
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 3, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "line-sp", 
+            "left": 454
+        }, 
+        {
+            "top": 389, 
+            "id": "", 
+            "width": 52, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 22, 
+            "class": "", 
+            "left": 465
+        }
+    ], 
+    "height": 23, 
+    "class": "tag-div", 
+    "left": 251
+}

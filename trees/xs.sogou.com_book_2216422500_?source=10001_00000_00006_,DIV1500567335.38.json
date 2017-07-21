@@ -1,0 +1,95 @@
+{
+    "index": "DIV1500567335.38", 
+    "top": 1229, 
+    "id": "", 
+    "width": 142, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1229, 
+            "id": "", 
+            "width": 142, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 1233, 
+                    "id": "", 
+                    "width": 142, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 1233, 
+                            "id": "", 
+                            "width": 142, 
+                            "tag": "IMG", 
+                            "leaves": [], 
+                            "height": 190, 
+                            "class": "", 
+                            "left": 486
+                        }, 
+                        {
+                            "top": 1396, 
+                            "id": "", 
+                            "width": 142, 
+                            "tag": "DIV", 
+                            "leaves": [
+                                {
+                                    "top": 1396, 
+                                    "id": "", 
+                                    "width": 142, 
+                                    "tag": "DIV", 
+                                    "leaves": [], 
+                                    "height": 190, 
+                                    "class": "cover-mask", 
+                                    "left": 486
+                                }, 
+                                {
+                                    "top": 1399, 
+                                    "id": "", 
+                                    "width": 142, 
+                                    "tag": "P", 
+                                    "leaves": [], 
+                                    "height": 134, 
+                                    "class": "", 
+                                    "left": 486
+                                }, 
+                                {
+                                    "top": 1546, 
+                                    "id": "", 
+                                    "width": 122, 
+                                    "tag": "SPAN", 
+                                    "leaves": [], 
+                                    "height": 30, 
+                                    "class": "read-btn", 
+                                    "left": 496
+                                }
+                            ], 
+                            "height": 190, 
+                            "class": "slide-cover", 
+                            "left": 486
+                        }
+                    ], 
+                    "height": 193, 
+                    "class": "book-img", 
+                    "left": 486
+                }
+            ], 
+            "height": 194, 
+            "class": "book-cover", 
+            "left": 486
+        }, 
+        {
+            "top": 1435, 
+            "id": "", 
+            "width": 142, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 16, 
+            "class": "book-name text-ellips", 
+            "left": 486
+        }
+    ], 
+    "height": 224, 
+    "class": "book-detail", 
+    "left": 486
+}

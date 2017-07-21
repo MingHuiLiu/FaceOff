@@ -1,0 +1,84 @@
+{
+    "index": "DIV1500567292.37", 
+    "top": 2280, 
+    "id": "", 
+    "width": 980, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 2280, 
+            "id": "", 
+            "width": 980, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 2284, 
+                    "id": "", 
+                    "width": 49, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "about", 
+                    "left": 357
+                }, 
+                {
+                    "top": 2284, 
+                    "id": "", 
+                    "width": 49, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "", 
+                    "left": 430
+                }, 
+                {
+                    "top": 2284, 
+                    "id": "", 
+                    "width": 49, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "", 
+                    "left": 503
+                }, 
+                {
+                    "top": 2284, 
+                    "id": "", 
+                    "width": 49, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "", 
+                    "left": 576
+                }
+            ], 
+            "height": 20, 
+            "class": "list", 
+            "left": 0
+        }, 
+        {
+            "top": 2314, 
+            "id": "", 
+            "width": 980, 
+            "tag": "P", 
+            "leaves": [
+                {
+                    "top": 2318, 
+                    "id": "", 
+                    "width": 90, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "", 
+                    "left": 592
+                }
+            ], 
+            "height": 20, 
+            "class": "copyright", 
+            "left": 0
+        }
+    ], 
+    "height": 54, 
+    "class": "inner", 
+    "left": 0
+}

@@ -1,0 +1,114 @@
+{
+    "index": "FOOTER1500567183.06", 
+    "top": 2108, 
+    "height": 119, 
+    "width": 360, 
+    "tag": "FOOTER", 
+    "leaves": [
+        {
+            "top": 2131, 
+            "height": 12, 
+            "width": 25, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 41
+        }, 
+        {
+            "top": 2131, 
+            "height": 12, 
+            "width": 11, 
+            "tag": "EM", 
+            "leaves": [], 
+            "left": 65
+        }, 
+        {
+            "top": 2131, 
+            "height": 12, 
+            "width": 49, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 80
+        }, 
+        {
+            "top": 2131, 
+            "height": 12, 
+            "width": 12, 
+            "tag": "EM", 
+            "leaves": [], 
+            "left": 128
+        }, 
+        {
+            "top": 2131, 
+            "height": 12, 
+            "width": 49, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 142
+        }, 
+        {
+            "top": 2131, 
+            "height": 12, 
+            "width": 11, 
+            "tag": "EM", 
+            "leaves": [], 
+            "left": 190
+        }, 
+        {
+            "top": 2131, 
+            "height": 12, 
+            "width": 49, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 204
+        }, 
+        {
+            "top": 2131, 
+            "height": 12, 
+            "width": 11, 
+            "tag": "EM", 
+            "leaves": [], 
+            "left": 252
+        }, 
+        {
+            "top": 2131, 
+            "height": 12, 
+            "width": 49, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 267
+        }, 
+        {
+            "top": 2159, 
+            "height": 12, 
+            "width": 37, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 135
+        }, 
+        {
+            "top": 2159, 
+            "height": 12, 
+            "width": 12, 
+            "tag": "EM", 
+            "leaves": [], 
+            "left": 171
+        }, 
+        {
+            "top": 2159, 
+            "height": 12, 
+            "width": 37, 
+            "tag": "A", 
+            "leaves": [], 
+            "left": 185
+        }, 
+        {
+            "top": 2199, 
+            "height": 18, 
+            "width": 350, 
+            "tag": "P", 
+            "leaves": [], 
+            "left": 5
+        }
+    ], 
+    "left": 0
+}

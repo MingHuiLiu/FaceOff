@@ -1,0 +1,266 @@
+{
+    "index": "DIV1500567272.06", 
+    "top": 30, 
+    "id": "header", 
+    "width": 960, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 30, 
+            "id": "logo", 
+            "width": 190, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 30, 
+                    "id": "logo_123", 
+                    "width": 190, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 66, 
+                    "class": "logo", 
+                    "left": 0
+                }
+            ], 
+            "height": 66, 
+            "class": "", 
+            "left": 0
+        }, 
+        {
+            "top": 30, 
+            "id": "sgse_main", 
+            "width": 700, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 30, 
+                    "id": "sgse_tab", 
+                    "width": 339, 
+                    "tag": "UL", 
+                    "leaves": [
+                        {
+                            "top": 30, 
+                            "id": "sgse_li_2", 
+                            "width": 47, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 35, 
+                                    "id": "", 
+                                    "width": 29, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 16, 
+                                    "class": "", 
+                                    "left": 240
+                                }
+                            ], 
+                            "height": 27, 
+                            "class": "sgse_onsel", 
+                            "left": 230
+                        }, 
+                        {
+                            "top": 30, 
+                            "id": "sgse_li_5", 
+                            "width": 47, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 35, 
+                                    "id": "", 
+                                    "width": 29, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 16, 
+                                    "class": "", 
+                                    "left": 286
+                                }
+                            ], 
+                            "height": 27, 
+                            "class": "", 
+                            "left": 277
+                        }, 
+                        {
+                            "top": 30, 
+                            "id": "sgse_li_7", 
+                            "width": 47, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 35, 
+                                    "id": "", 
+                                    "width": 29, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 16, 
+                                    "class": "", 
+                                    "left": 334
+                                }
+                            ], 
+                            "height": 27, 
+                            "class": "", 
+                            "left": 324
+                        }, 
+                        {
+                            "top": 30, 
+                            "id": "sgse_li_6", 
+                            "width": 47, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 35, 
+                                    "id": "", 
+                                    "width": 29, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 16, 
+                                    "class": "", 
+                                    "left": 381
+                                }
+                            ], 
+                            "height": 27, 
+                            "class": "", 
+                            "left": 371
+                        }, 
+                        {
+                            "top": 30, 
+                            "id": "sgse_li_3", 
+                            "width": 47, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 35, 
+                                    "id": "", 
+                                    "width": 29, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 16, 
+                                    "class": "", 
+                                    "left": 428
+                                }
+                            ], 
+                            "height": 27, 
+                            "class": "", 
+                            "left": 418
+                        }, 
+                        {
+                            "top": 30, 
+                            "id": "sgse_li_4", 
+                            "width": 47, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 35, 
+                                    "id": "", 
+                                    "width": 29, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 16, 
+                                    "class": "", 
+                                    "left": 475
+                                }
+                            ], 
+                            "height": 27, 
+                            "class": "", 
+                            "left": 465
+                        }, 
+                        {
+                            "top": 30, 
+                            "id": "sgse_li_8", 
+                            "width": 47, 
+                            "tag": "LI", 
+                            "leaves": [
+                                {
+                                    "top": 35, 
+                                    "id": "", 
+                                    "width": 29, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 16, 
+                                    "class": "", 
+                                    "left": 522
+                                }
+                            ], 
+                            "height": 27, 
+                            "class": "", 
+                            "left": 512
+                        }
+                    ], 
+                    "height": 26, 
+                    "class": "", 
+                    "left": 220
+                }, 
+                {
+                    "top": 56, 
+                    "id": "sgse_fdiv", 
+                    "width": 640, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 56, 
+                            "id": "sgse_f", 
+                            "width": 580, 
+                            "tag": "FORM", 
+                            "leaves": [
+                                {
+                                    "top": 56, 
+                                    "id": "sgse_qb", 
+                                    "width": 382, 
+                                    "tag": "DIV", 
+                                    "leaves": [
+                                        {
+                                            "top": 57, 
+                                            "id": "sgse_kw", 
+                                            "width": 379, 
+                                            "tag": "INPUT", 
+                                            "leaves": [], 
+                                            "height": 29, 
+                                            "class": "", 
+                                            "left": 221
+                                        }
+                                    ], 
+                                    "height": 32, 
+                                    "class": "", 
+                                    "left": 220
+                                }, 
+                                {
+                                    "top": 56, 
+                                    "id": "sgse_btn", 
+                                    "width": 87, 
+                                    "tag": "DIV", 
+                                    "leaves": [
+                                        {
+                                            "top": 56, 
+                                            "id": "sgse_sb", 
+                                            "width": 76, 
+                                            "tag": "INPUT", 
+                                            "leaves": [], 
+                                            "height": 32, 
+                                            "class": "", 
+                                            "left": 613
+                                        }
+                                    ], 
+                                    "height": 32, 
+                                    "class": "", 
+                                    "left": 602
+                                }
+                            ], 
+                            "height": 35, 
+                            "class": "", 
+                            "left": 220
+                        }
+                    ], 
+                    "height": 40, 
+                    "class": "", 
+                    "left": 220
+                }
+            ], 
+            "height": 66, 
+            "class": "", 
+            "left": 190
+        }
+    ], 
+    "height": 66, 
+    "class": "", 
+    "left": 0
+}

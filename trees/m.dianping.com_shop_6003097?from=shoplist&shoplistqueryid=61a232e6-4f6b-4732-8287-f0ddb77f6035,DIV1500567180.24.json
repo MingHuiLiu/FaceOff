@@ -1,0 +1,114 @@
+{
+    "index": "DIV1500567180.24", 
+    "top": 640, 
+    "height": 105, 
+    "width": 330, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 648, 
+            "height": 30, 
+            "width": 47, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 15
+        }, 
+        {
+            "top": 648, 
+            "height": 30, 
+            "width": 61, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 67
+        }, 
+        {
+            "top": 648, 
+            "height": 30, 
+            "width": 61, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 132
+        }, 
+        {
+            "top": 648, 
+            "height": 30, 
+            "width": 47, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 198
+        }, 
+        {
+            "top": 648, 
+            "height": 30, 
+            "width": 61, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 250
+        }, 
+        {
+            "top": 678, 
+            "height": 30, 
+            "width": 75, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 15
+        }, 
+        {
+            "top": 678, 
+            "height": 30, 
+            "width": 47, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 95
+        }, 
+        {
+            "top": 678, 
+            "height": 30, 
+            "width": 47, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 146
+        }, 
+        {
+            "top": 678, 
+            "height": 30, 
+            "width": 75, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 198
+        }, 
+        {
+            "top": 678, 
+            "height": 30, 
+            "width": 33, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 278
+        }, 
+        {
+            "top": 708, 
+            "height": 30, 
+            "width": 75, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 15
+        }, 
+        {
+            "top": 708, 
+            "height": 30, 
+            "width": 61, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 95
+        }, 
+        {
+            "top": 708, 
+            "height": 30, 
+            "width": 33, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "left": 160
+        }
+    ], 
+    "left": 15
+}

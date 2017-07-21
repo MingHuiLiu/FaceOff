@@ -1,0 +1,431 @@
+{
+    "index": "DIV1500567315.47", 
+    "top": 139, 
+    "id": "ad_leftresult_0", 
+    "width": 550, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 140, 
+            "id": "", 
+            "width": 550, 
+            "tag": "H3", 
+            "leaves": [
+                {
+                    "top": 143, 
+                    "id": "", 
+                    "width": 242, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 143, 
+                            "id": "", 
+                            "width": 64, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 17, 
+                            "class": "", 
+                            "left": 141
+                        }, 
+                        {
+                            "top": 143, 
+                            "id": "", 
+                            "width": 36, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 17, 
+                            "class": "", 
+                            "left": 209
+                        }
+                    ], 
+                    "height": 17, 
+                    "class": "biz_tit_ico", 
+                    "left": 121
+                }, 
+                {
+                    "top": 140, 
+                    "id": "", 
+                    "width": 550, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 24, 
+                    "class": "biz_title_fill", 
+                    "left": 367
+                }
+            ], 
+            "height": 24, 
+            "class": "biz_title", 
+            "left": 121
+        }, 
+        {
+            "top": 164, 
+            "id": "", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 164, 
+                    "id": "", 
+                    "width": 92, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 169, 
+                            "id": "", 
+                            "width": 92, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 169, 
+                                    "id": "ad_leftresult_img_0", 
+                                    "width": 90, 
+                                    "tag": "IMG", 
+                                    "leaves": [], 
+                                    "height": 90, 
+                                    "class": "", 
+                                    "left": 121
+                                }
+                            ], 
+                            "height": 92, 
+                            "class": "crown_img size_90_90", 
+                            "left": 121
+                        }
+                    ], 
+                    "height": 102, 
+                    "class": "crown_div", 
+                    "left": 121
+                }, 
+                {
+                    "top": 164, 
+                    "id": "", 
+                    "width": 436, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 164, 
+                            "id": "", 
+                            "width": 436, 
+                            "tag": "DIV", 
+                            "leaves": [
+                                {
+                                    "top": 165, 
+                                    "id": "", 
+                                    "width": 436, 
+                                    "tag": "A", 
+                                    "leaves": [
+                                        {
+                                            "top": 167, 
+                                            "id": "", 
+                                            "width": 52, 
+                                            "tag": "EM", 
+                                            "leaves": [], 
+                                            "height": 15, 
+                                            "class": "", 
+                                            "left": 225
+                                        }
+                                    ], 
+                                    "height": 40, 
+                                    "class": "cnt_fill", 
+                                    "left": 225
+                                }
+                            ], 
+                            "height": 42, 
+                            "class": "crown_info", 
+                            "left": 225
+                        }, 
+                        {
+                            "top": 211, 
+                            "id": "", 
+                            "width": 436, 
+                            "tag": "DIV", 
+                            "leaves": [
+                                {
+                                    "top": 213, 
+                                    "id": "ad_leftresult_link_0_0", 
+                                    "width": 91, 
+                                    "tag": "A", 
+                                    "leaves": [
+                                        {
+                                            "top": 213, 
+                                            "id": "", 
+                                            "width": 52, 
+                                            "tag": "EM", 
+                                            "leaves": [], 
+                                            "height": 15, 
+                                            "class": "", 
+                                            "left": 264
+                                        }
+                                    ], 
+                                    "height": 15, 
+                                    "class": "", 
+                                    "left": 225
+                                }, 
+                                {
+                                    "top": 213, 
+                                    "id": "ad_leftresult_link_1_0", 
+                                    "width": 65, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 15, 
+                                    "class": "", 
+                                    "left": 336
+                                }, 
+                                {
+                                    "top": 213, 
+                                    "id": "ad_leftresult_link_2_0", 
+                                    "width": 78, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 15, 
+                                    "class": "", 
+                                    "left": 421
+                                }, 
+                                {
+                                    "top": 211, 
+                                    "id": "", 
+                                    "width": 436, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 20, 
+                                    "class": "biz_title_fill", 
+                                    "left": 519
+                                }
+                            ], 
+                            "height": 20, 
+                            "class": "biz_substr biz_substr_m5", 
+                            "left": 225
+                        }, 
+                        {
+                            "top": 236, 
+                            "id": "", 
+                            "width": 436, 
+                            "tag": "DIV", 
+                            "leaves": [
+                                {
+                                    "top": 238, 
+                                    "id": "", 
+                                    "width": 166, 
+                                    "tag": "CITE", 
+                                    "leaves": [
+                                        {
+                                            "top": 238, 
+                                            "id": "", 
+                                            "width": 166, 
+                                            "tag": "A", 
+                                            "leaves": [], 
+                                            "height": 15, 
+                                            "class": "", 
+                                            "left": 225
+                                        }
+                                    ], 
+                                    "height": 15, 
+                                    "class": "", 
+                                    "left": 225
+                                }, 
+                                {
+                                    "top": 236, 
+                                    "id": "", 
+                                    "width": 436, 
+                                    "tag": "A", 
+                                    "leaves": [], 
+                                    "height": 20, 
+                                    "class": "biz_title_fill", 
+                                    "left": 398
+                                }
+                            ], 
+                            "height": 20, 
+                            "class": "biz_fb", 
+                            "left": 225
+                        }, 
+                        {
+                            "top": 256, 
+                            "id": "", 
+                            "width": 436, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 24, 
+                            "class": "biz_title_fill", 
+                            "left": 225
+                        }
+                    ], 
+                    "height": 102, 
+                    "class": "crown_info_box crown_info_box_90", 
+                    "left": 225
+                }
+            ], 
+            "height": 102, 
+            "class": "biz_crown150204 biz_h_102", 
+            "left": 121
+        }, 
+        {
+            "top": 266, 
+            "id": "", 
+            "width": 550, 
+            "tag": "UL", 
+            "leaves": [
+                {
+                    "top": 266, 
+                    "id": "", 
+                    "width": 550, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 271, 
+                            "id": "", 
+                            "width": 34, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 121
+                        }, 
+                        {
+                            "top": 267, 
+                            "id": "", 
+                            "width": 110, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 271, 
+                                    "id": "", 
+                                    "width": 52, 
+                                    "tag": "EM", 
+                                    "leaves": [], 
+                                    "height": 15, 
+                                    "class": "", 
+                                    "left": 158
+                                }
+                            ], 
+                            "height": 24, 
+                            "class": "biz-changeable", 
+                            "left": 158
+                        }, 
+                        {
+                            "top": 266, 
+                            "id": "", 
+                            "width": 550, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 24, 
+                            "class": "biz_title_fill", 
+                            "left": 268
+                        }
+                    ], 
+                    "height": 25, 
+                    "class": "", 
+                    "left": 121
+                }, 
+                {
+                    "top": 291, 
+                    "id": "", 
+                    "width": 550, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 296, 
+                            "id": "", 
+                            "width": 34, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 121
+                        }, 
+                        {
+                            "top": 292, 
+                            "id": "", 
+                            "width": 117, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 296, 
+                                    "id": "", 
+                                    "width": 52, 
+                                    "tag": "EM", 
+                                    "leaves": [], 
+                                    "height": 15, 
+                                    "class": "", 
+                                    "left": 158
+                                }
+                            ], 
+                            "height": 24, 
+                            "class": "biz-changeable", 
+                            "left": 158
+                        }, 
+                        {
+                            "top": 291, 
+                            "id": "", 
+                            "width": 550, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 24, 
+                            "class": "biz_title_fill", 
+                            "left": 275
+                        }
+                    ], 
+                    "height": 25, 
+                    "class": "", 
+                    "left": 121
+                }, 
+                {
+                    "top": 316, 
+                    "id": "", 
+                    "width": 550, 
+                    "tag": "LI", 
+                    "leaves": [
+                        {
+                            "top": 321, 
+                            "id": "", 
+                            "width": 34, 
+                            "tag": "SPAN", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 121
+                        }, 
+                        {
+                            "top": 317, 
+                            "id": "", 
+                            "width": 130, 
+                            "tag": "A", 
+                            "leaves": [
+                                {
+                                    "top": 321, 
+                                    "id": "", 
+                                    "width": 52, 
+                                    "tag": "EM", 
+                                    "leaves": [], 
+                                    "height": 15, 
+                                    "class": "", 
+                                    "left": 158
+                                }
+                            ], 
+                            "height": 24, 
+                            "class": "biz-changeable", 
+                            "left": 158
+                        }, 
+                        {
+                            "top": 316, 
+                            "id": "", 
+                            "width": 550, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 24, 
+                            "class": "biz_title_fill", 
+                            "left": 288
+                        }
+                    ], 
+                    "height": 25, 
+                    "class": "", 
+                    "left": 121
+                }
+            ], 
+            "height": 75, 
+            "class": "biz-substring", 
+            "left": 121
+        }
+    ], 
+    "height": 202, 
+    "class": "biz_rb ", 
+    "left": 121
+}

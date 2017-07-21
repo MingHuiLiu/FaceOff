@@ -1,0 +1,169 @@
+{
+    "index": "UL1500567324.75", 
+    "top": 1902, 
+    "id": "", 
+    "width": 550, 
+    "tag": "UL", 
+    "leaves": [
+        {
+            "top": 1902, 
+            "id": "", 
+            "width": 416, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 1902, 
+                    "id": "", 
+                    "width": 53, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 22, 
+                    "class": "", 
+                    "left": 618
+                }, 
+                {
+                    "top": 1905, 
+                    "id": "sogou_vr_11008601_topiclink_url_1", 
+                    "width": 271, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 1905, 
+                            "id": "", 
+                            "width": 79, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 350
+                        }
+                    ], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 255
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 255
+        }, 
+        {
+            "top": 1929, 
+            "id": "", 
+            "width": 416, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 1929, 
+                    "id": "", 
+                    "width": 53, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 22, 
+                    "class": "", 
+                    "left": 618
+                }, 
+                {
+                    "top": 1932, 
+                    "id": "sogou_vr_11008601_topiclink_url_2", 
+                    "width": 279, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 1932, 
+                            "id": "", 
+                            "width": 26, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 385
+                        }
+                    ], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 255
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 255
+        }, 
+        {
+            "top": 1956, 
+            "id": "", 
+            "width": 416, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 1956, 
+                    "id": "", 
+                    "width": 61, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 22, 
+                    "class": "", 
+                    "left": 610
+                }, 
+                {
+                    "top": 1959, 
+                    "id": "sogou_vr_11008601_topiclink_url_3", 
+                    "width": 297, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 255
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 255
+        }, 
+        {
+            "top": 1983, 
+            "id": "", 
+            "width": 416, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 1983, 
+                    "id": "", 
+                    "width": 53, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 22, 
+                    "class": "", 
+                    "left": 618
+                }, 
+                {
+                    "top": 1986, 
+                    "id": "sogou_vr_11008601_topiclink_url_4", 
+                    "width": 268, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 1986, 
+                            "id": "", 
+                            "width": 78, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 307
+                        }
+                    ], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 255
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 255
+        }
+    ], 
+    "height": 108, 
+    "class": "bar-list", 
+    "left": 121
+}

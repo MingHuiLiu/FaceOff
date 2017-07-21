@@ -1,0 +1,75 @@
+{
+    "index": "DIV1500567256.67", 
+    "top": 62, 
+    "id": "", 
+    "width": 325, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 62, 
+            "id": "ProvSel", 
+            "width": 108, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 63, 
+                    "id": "ProvSelBtn", 
+                    "width": 104, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "sel-btn", 
+                    "left": 332
+                }
+            ], 
+            "height": 34, 
+            "class": "sel-item cf", 
+            "left": 330
+        }, 
+        {
+            "top": 62, 
+            "id": "CitySel", 
+            "width": 108, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 63, 
+                    "id": "CitySelBtn", 
+                    "width": 104, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "sel-btn", 
+                    "left": 440
+                }
+            ], 
+            "height": 34, 
+            "class": "sel-item cf", 
+            "left": 438
+        }, 
+        {
+            "top": 62, 
+            "id": "TownSel", 
+            "width": 108, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 63, 
+                    "id": "TownSelBtn", 
+                    "width": 104, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 32, 
+                    "class": "sel-btn", 
+                    "left": 548
+                }
+            ], 
+            "height": 34, 
+            "class": "sel-item cf", 
+            "left": 546
+        }
+    ], 
+    "height": 34, 
+    "class": "sel-box cf", 
+    "left": 330
+}

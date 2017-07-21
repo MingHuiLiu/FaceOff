@@ -1,0 +1,43 @@
+{
+    "index": "DIV1500567329.79", 
+    "top": 2836, 
+    "id": "", 
+    "width": 550, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 2838, 
+            "id": "", 
+            "width": 151, 
+            "tag": "CITE", 
+            "leaves": [
+                {
+                    "top": 2838, 
+                    "id": "", 
+                    "width": 151, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 121
+                }
+            ], 
+            "height": 15, 
+            "class": "", 
+            "left": 121
+        }, 
+        {
+            "top": 2836, 
+            "id": "", 
+            "width": 550, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "biz_title_fill", 
+            "left": 279
+        }
+    ], 
+    "height": 20, 
+    "class": "biz_fb", 
+    "left": 121
+}

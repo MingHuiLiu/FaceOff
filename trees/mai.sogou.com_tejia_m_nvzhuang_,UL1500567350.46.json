@@ -1,0 +1,96 @@
+{
+    "index": "UL1500567350.46", 
+    "top": 0, 
+    "id": "", 
+    "width": 288, 
+    "tag": "UL", 
+    "leaves": [
+        {
+            "top": 0, 
+            "id": "", 
+            "width": 72, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 16, 
+                    "id": "", 
+                    "width": 30, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 21
+                }
+            ], 
+            "height": 49, 
+            "class": "", 
+            "left": 0
+        }, 
+        {
+            "top": 0, 
+            "id": "", 
+            "width": 72, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 16, 
+                    "id": "", 
+                    "width": 30, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "curr", 
+                    "left": 93
+                }
+            ], 
+            "height": 49, 
+            "class": "", 
+            "left": 72
+        }, 
+        {
+            "top": 0, 
+            "id": "", 
+            "width": 72, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 16, 
+                    "id": "", 
+                    "width": 30, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 165
+                }
+            ], 
+            "height": 49, 
+            "class": "", 
+            "left": 144
+        }, 
+        {
+            "top": 0, 
+            "id": "", 
+            "width": 72, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 16, 
+                    "id": "", 
+                    "width": 30, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 237
+                }
+            ], 
+            "height": 49, 
+            "class": "", 
+            "left": 216
+        }
+    ], 
+    "height": 51, 
+    "class": "category-list", 
+    "left": 0
+}

@@ -1,0 +1,110 @@
+{
+    "index": "DIV1500567194.17", 
+    "top": 2212, 
+    "height": 110, 
+    "width": 1320, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 2212, 
+            "height": 110, 
+            "width": 330, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 2212, 
+                    "height": 110, 
+                    "width": 330, 
+                    "tag": "IMG", 
+                    "leaves": [], 
+                    "left": 375
+                }, 
+                {
+                    "top": 2290, 
+                    "height": 32, 
+                    "width": 330, 
+                    "tag": "P", 
+                    "leaves": [], 
+                    "left": 375
+                }
+            ], 
+            "left": 375
+        }, 
+        {
+            "top": 2212, 
+            "height": 110, 
+            "width": 330, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 2212, 
+                    "height": 110, 
+                    "width": 330, 
+                    "tag": "IMG", 
+                    "leaves": [], 
+                    "left": 705
+                }, 
+                {
+                    "top": 2290, 
+                    "height": 32, 
+                    "width": 330, 
+                    "tag": "P", 
+                    "leaves": [], 
+                    "left": 705
+                }
+            ], 
+            "left": 705
+        }, 
+        {
+            "top": 2212, 
+            "height": 110, 
+            "width": 330, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 2212, 
+                    "height": 110, 
+                    "width": 330, 
+                    "tag": "IMG", 
+                    "leaves": [], 
+                    "left": 1035
+                }, 
+                {
+                    "top": 2290, 
+                    "height": 32, 
+                    "width": 330, 
+                    "tag": "P", 
+                    "leaves": [], 
+                    "left": 1035
+                }
+            ], 
+            "left": 1035
+        }, 
+        {
+            "top": 2212, 
+            "height": 110, 
+            "width": 330, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 2212, 
+                    "height": 110, 
+                    "width": 330, 
+                    "tag": "IMG", 
+                    "leaves": [], 
+                    "left": 1365
+                }, 
+                {
+                    "top": 2290, 
+                    "height": 32, 
+                    "width": 330, 
+                    "tag": "P", 
+                    "leaves": [], 
+                    "left": 1365
+                }
+            ], 
+            "left": 1365
+        }
+    ], 
+    "left": 375
+}

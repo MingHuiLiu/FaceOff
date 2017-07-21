@@ -1,0 +1,122 @@
+{
+    "index": "DIV1500567349.28", 
+    "top": 2128, 
+    "id": "pagebar_container", 
+    "width": 987, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 2128, 
+            "id": "", 
+            "width": 36, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "", 
+            "left": 121
+        }, 
+        {
+            "top": 2128, 
+            "id": "sogou_page_2", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "", 
+            "left": 167
+        }, 
+        {
+            "top": 2128, 
+            "id": "sogou_page_3", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "", 
+            "left": 213
+        }, 
+        {
+            "top": 2128, 
+            "id": "sogou_page_4", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "", 
+            "left": 259
+        }, 
+        {
+            "top": 2128, 
+            "id": "sogou_page_5", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "", 
+            "left": 305
+        }, 
+        {
+            "top": 2128, 
+            "id": "sogou_page_6", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "", 
+            "left": 351
+        }, 
+        {
+            "top": 2128, 
+            "id": "sogou_page_7", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "", 
+            "left": 397
+        }, 
+        {
+            "top": 2128, 
+            "id": "sogou_page_8", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "", 
+            "left": 443
+        }, 
+        {
+            "top": 2128, 
+            "id": "sogou_page_9", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "", 
+            "left": 489
+        }, 
+        {
+            "top": 2128, 
+            "id": "sogou_page_10", 
+            "width": 36, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "", 
+            "left": 535
+        }, 
+        {
+            "top": 2128, 
+            "id": "sogou_next", 
+            "width": 83, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 36, 
+            "class": "np", 
+            "left": 586
+        }
+    ], 
+    "height": 36, 
+    "class": "p", 
+    "left": 0
+}

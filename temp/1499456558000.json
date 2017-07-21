@@ -1,0 +1,36 @@
+{
+  "title":"中国工商银行中国网站",
+  "url":"http://www.icbc.com.cn/icbc/",
+  "tag":"BODY",
+  "top": 0,
+  "left": 0,
+  "width":1016,
+  "height":2094,
+  "leaves":
+  [
+    {
+      "tag":"BODY",
+      "class":"",
+      "id":"",
+      "top":0,
+      "left":0,
+      "width":360,
+      "height":2094,
+      "leaves":
+      [
+    {
+      "tag":"FORM",
+      "class":"",
+      "id":"form1",
+      "top":0,
+      "left":0,
+      "width":360,
+      "height":2094,
+      "leaves":
+      [
+      ]
+    }
+      ]
+    }
+  ]
+}

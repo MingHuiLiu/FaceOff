@@ -1,0 +1,159 @@
+{
+    "index": "UL1500567272.17", 
+    "top": 30, 
+    "id": "sgse_tab", 
+    "width": 339, 
+    "tag": "UL", 
+    "leaves": [
+        {
+            "top": 30, 
+            "id": "sgse_li_2", 
+            "width": 47, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 35, 
+                    "id": "", 
+                    "width": 29, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 240
+                }
+            ], 
+            "height": 27, 
+            "class": "sgse_onsel", 
+            "left": 230
+        }, 
+        {
+            "top": 30, 
+            "id": "sgse_li_5", 
+            "width": 47, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 35, 
+                    "id": "", 
+                    "width": 29, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 286
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 277
+        }, 
+        {
+            "top": 30, 
+            "id": "sgse_li_7", 
+            "width": 47, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 35, 
+                    "id": "", 
+                    "width": 29, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 334
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 324
+        }, 
+        {
+            "top": 30, 
+            "id": "sgse_li_6", 
+            "width": 47, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 35, 
+                    "id": "", 
+                    "width": 29, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 381
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 371
+        }, 
+        {
+            "top": 30, 
+            "id": "sgse_li_3", 
+            "width": 47, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 35, 
+                    "id": "", 
+                    "width": 29, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 428
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 418
+        }, 
+        {
+            "top": 30, 
+            "id": "sgse_li_4", 
+            "width": 47, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 35, 
+                    "id": "", 
+                    "width": 29, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 475
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 465
+        }, 
+        {
+            "top": 30, 
+            "id": "sgse_li_8", 
+            "width": 47, 
+            "tag": "LI", 
+            "leaves": [
+                {
+                    "top": 35, 
+                    "id": "", 
+                    "width": 29, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 16, 
+                    "class": "", 
+                    "left": 522
+                }
+            ], 
+            "height": 27, 
+            "class": "", 
+            "left": 512
+        }
+    ], 
+    "height": 26, 
+    "class": "", 
+    "left": 220
+}

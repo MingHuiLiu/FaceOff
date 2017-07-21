@@ -1,0 +1,136 @@
+{
+    "index": "DIV1500567345.17", 
+    "top": 1072, 
+    "id": "rb_6", 
+    "width": 550, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1073, 
+            "id": "", 
+            "width": 550, 
+            "tag": "H3", 
+            "leaves": [
+                {
+                    "top": 1076, 
+                    "id": "uigs__6", 
+                    "width": 267, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 1076, 
+                            "id": "", 
+                            "width": 32, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 17, 
+                            "class": "", 
+                            "left": 121
+                        }, 
+                        {
+                            "top": 1076, 
+                            "id": "", 
+                            "width": 33, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 17, 
+                            "class": "", 
+                            "left": 222
+                        }
+                    ], 
+                    "height": 17, 
+                    "class": "", 
+                    "left": 121
+                }
+            ], 
+            "height": 24, 
+            "class": "pt", 
+            "left": 121
+        }, 
+        {
+            "top": 1097, 
+            "id": "cacheresult_summary_6", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 1099, 
+                    "id": "", 
+                    "width": 27, 
+                    "tag": "EM", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 258
+                }, 
+                {
+                    "top": 1119, 
+                    "id": "", 
+                    "width": 27, 
+                    "tag": "EM", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 164
+                }, 
+                {
+                    "top": 1119, 
+                    "id": "", 
+                    "width": 27, 
+                    "tag": "EM", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 193
+                }, 
+                {
+                    "top": 1119, 
+                    "id": "", 
+                    "width": 27, 
+                    "tag": "EM", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 366
+                }
+            ], 
+            "height": 40, 
+            "class": "ft", 
+            "left": 121
+        }, 
+        {
+            "top": 1137, 
+            "id": "", 
+            "width": 550, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 1137, 
+                    "id": "cacheresult_info_6", 
+                    "width": 283, 
+                    "tag": "CITE", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 121
+                }, 
+                {
+                    "top": 1139, 
+                    "id": "sogou_snapshot_6", 
+                    "width": 27, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 416
+                }
+            ], 
+            "height": 22, 
+            "class": "fb", 
+            "left": 121
+        }
+    ], 
+    "height": 87, 
+    "class": "rb", 
+    "left": 121
+}

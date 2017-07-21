@@ -1,0 +1,117 @@
+{
+    "index": "DIV1500567323.66", 
+    "top": 1728, 
+    "id": "", 
+    "width": 548, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 1728, 
+            "id": "sogou_vr_30000909_pic_8", 
+            "width": 122, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 1733, 
+                    "id": "sogou_vr_30000909_pic_a_8", 
+                    "width": 122, 
+                    "tag": "A", 
+                    "leaves": [
+                        {
+                            "top": 1733, 
+                            "id": "sogou_vr_30000909_pic_img_8", 
+                            "width": 123, 
+                            "tag": "IMG", 
+                            "leaves": [], 
+                            "height": 80, 
+                            "class": "", 
+                            "left": 120
+                        }
+                    ], 
+                    "height": 82, 
+                    "class": "str_img size_120_80", 
+                    "left": 121
+                }
+            ], 
+            "height": 92, 
+            "class": "str_div", 
+            "left": 121
+        }, 
+        {
+            "top": 1728, 
+            "id": "", 
+            "width": 414, 
+            "tag": "DIV", 
+            "leaves": [
+                {
+                    "top": 1728, 
+                    "id": "", 
+                    "width": 414, 
+                    "tag": "P", 
+                    "leaves": [
+                        {
+                            "top": 1731, 
+                            "id": "", 
+                            "width": 78, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 255
+                        }, 
+                        {
+                            "top": 1751, 
+                            "id": "", 
+                            "width": 78, 
+                            "tag": "EM", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 489
+                        }
+                    ], 
+                    "height": 62, 
+                    "class": "str_info", 
+                    "left": 255
+                }, 
+                {
+                    "top": 1790, 
+                    "id": "", 
+                    "width": 414, 
+                    "tag": "DIV", 
+                    "leaves": [
+                        {
+                            "top": 1790, 
+                            "id": "cacheresult_info_8", 
+                            "width": 328, 
+                            "tag": "CITE", 
+                            "leaves": [], 
+                            "height": 22, 
+                            "class": "", 
+                            "left": 255
+                        }, 
+                        {
+                            "top": 1793, 
+                            "id": "sogou_snapshot_8", 
+                            "width": 27, 
+                            "tag": "A", 
+                            "leaves": [], 
+                            "height": 15, 
+                            "class": "", 
+                            "left": 595
+                        }
+                    ], 
+                    "height": 22, 
+                    "class": "fb", 
+                    "left": 255
+                }
+            ], 
+            "height": 84, 
+            "class": "str_info_div", 
+            "left": 255
+        }
+    ], 
+    "height": 92, 
+    "class": "strBox", 
+    "left": 121
+}

@@ -1,0 +1,104 @@
+{
+    "index": "DIV1500567275.6", 
+    "top": 602, 
+    "id": "", 
+    "width": 687, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 602, 
+            "id": "", 
+            "width": 685, 
+            "tag": "P", 
+            "leaves": [
+                {
+                    "top": 617, 
+                    "id": "", 
+                    "width": 24, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "bold", 
+                    "left": 21
+                }, 
+                {
+                    "top": 617, 
+                    "id": "", 
+                    "width": 24, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "red", 
+                    "left": 51
+                }, 
+                {
+                    "top": 617, 
+                    "id": "", 
+                    "width": 24, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "green", 
+                    "left": 81
+                }
+            ], 
+            "height": 28, 
+            "class": "", 
+            "left": 1
+        }, 
+        {
+            "top": 630, 
+            "id": "", 
+            "width": 685, 
+            "tag": "P", 
+            "leaves": [
+                {
+                    "top": 645, 
+                    "id": "", 
+                    "width": 24, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "bold", 
+                    "left": 21
+                }, 
+                {
+                    "top": 645, 
+                    "id": "", 
+                    "width": 24, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "blue", 
+                    "left": 51
+                }, 
+                {
+                    "top": 645, 
+                    "id": "", 
+                    "width": 24, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "red", 
+                    "left": 171
+                }, 
+                {
+                    "top": 645, 
+                    "id": "", 
+                    "width": 24, 
+                    "tag": "SPAN", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "green", 
+                    "left": 279
+                }
+            ], 
+            "height": 28, 
+            "class": "", 
+            "left": 1
+        }
+    ], 
+    "height": 74, 
+    "class": "tips-wp", 
+    "left": 0
+}

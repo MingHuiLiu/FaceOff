@@ -1,0 +1,32 @@
+{
+    "index": "A1500567304.65", 
+    "top": 1846, 
+    "id": "uigs__9", 
+    "width": 504, 
+    "tag": "A", 
+    "leaves": [
+        {
+            "top": 1846, 
+            "id": "", 
+            "width": 45, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 17, 
+            "class": "", 
+            "left": 121
+        }, 
+        {
+            "top": 1846, 
+            "id": "", 
+            "width": 53, 
+            "tag": "EM", 
+            "leaves": [], 
+            "height": 17, 
+            "class": "", 
+            "left": 400
+        }
+    ], 
+    "height": 17, 
+    "class": "", 
+    "left": 121
+}

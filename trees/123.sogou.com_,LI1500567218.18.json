@@ -1,0 +1,32 @@
+{
+    "index": "LI1500567218.18", 
+    "top": 1526, 
+    "id": "", 
+    "width": 114, 
+    "tag": "LI", 
+    "leaves": [
+        {
+            "top": 1537, 
+            "id": "", 
+            "width": 3, 
+            "tag": "I", 
+            "leaves": [], 
+            "height": 3, 
+            "class": "ct dot", 
+            "left": 125
+        }, 
+        {
+            "top": 1531, 
+            "id": "", 
+            "width": 50, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 16, 
+            "class": "txt", 
+            "left": 128
+        }
+    ], 
+    "height": 26, 
+    "class": "per-50", 
+    "left": 125
+}

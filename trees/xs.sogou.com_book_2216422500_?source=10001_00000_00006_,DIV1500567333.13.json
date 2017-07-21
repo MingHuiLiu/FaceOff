@@ -1,0 +1,94 @@
+{
+    "index": "DIV1500567333.13", 
+    "top": 245, 
+    "id": "", 
+    "width": 450, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 245, 
+            "id": "", 
+            "width": 125, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "fl", 
+            "left": 223
+        }, 
+        {
+            "top": 245, 
+            "id": "", 
+            "width": 125, 
+            "tag": "SPAN", 
+            "leaves": [
+                {
+                    "top": 245, 
+                    "id": "", 
+                    "width": 24, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 384
+                }
+            ], 
+            "height": 20, 
+            "class": "fl", 
+            "left": 348
+        }, 
+        {
+            "top": 245, 
+            "id": "", 
+            "width": 125, 
+            "tag": "SPAN", 
+            "leaves": [
+                {
+                    "top": 245, 
+                    "id": "", 
+                    "width": 36, 
+                    "tag": "A", 
+                    "leaves": [], 
+                    "height": 20, 
+                    "class": "", 
+                    "left": 509
+                }
+            ], 
+            "height": 20, 
+            "class": "fl", 
+            "left": 473
+        }, 
+        {
+            "top": 265, 
+            "id": "", 
+            "width": 125, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "fl", 
+            "left": 223
+        }, 
+        {
+            "top": 265, 
+            "id": "", 
+            "width": 125, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "fl", 
+            "left": 348
+        }, 
+        {
+            "top": 265, 
+            "id": "bookPrice", 
+            "width": 125, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 20, 
+            "class": "fl", 
+            "left": 473
+        }
+    ], 
+    "height": 40, 
+    "class": "field clear", 
+    "left": 223
+}

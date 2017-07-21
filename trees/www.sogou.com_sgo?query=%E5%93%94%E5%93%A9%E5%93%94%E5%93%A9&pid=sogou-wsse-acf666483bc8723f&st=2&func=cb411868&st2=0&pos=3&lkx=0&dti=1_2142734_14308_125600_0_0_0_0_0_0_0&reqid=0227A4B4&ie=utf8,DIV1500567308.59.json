@@ -1,0 +1,53 @@
+{
+    "index": "DIV1500567308.59", 
+    "top": 249, 
+    "id": "", 
+    "width": 446, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 249, 
+            "id": "cacheresult_info_0", 
+            "width": 219, 
+            "tag": "CITE", 
+            "leaves": [
+                {
+                    "top": 252, 
+                    "id": "", 
+                    "width": 52, 
+                    "tag": "B", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 225
+                }, 
+                {
+                    "top": 252, 
+                    "id": "", 
+                    "width": 53, 
+                    "tag": "DATE", 
+                    "leaves": [], 
+                    "height": 15, 
+                    "class": "", 
+                    "left": 392
+                }
+            ], 
+            "height": 22, 
+            "class": "", 
+            "left": 225
+        }, 
+        {
+            "top": 252, 
+            "id": "sogou_snapshot_0", 
+            "width": 27, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 15, 
+            "class": "", 
+            "left": 456
+        }
+    ], 
+    "height": 22, 
+    "class": "fb", 
+    "left": 225
+}

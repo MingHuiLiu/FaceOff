@@ -1,0 +1,42 @@
+{
+    "index": "LI1500567216.23", 
+    "top": 1344, 
+    "id": "", 
+    "width": 54, 
+    "tag": "LI", 
+    "leaves": [
+        {
+            "top": 1353, 
+            "id": "", 
+            "width": 28, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 16, 
+            "class": "", 
+            "left": 24
+        }, 
+        {
+            "top": 1354, 
+            "id": "", 
+            "width": 1, 
+            "tag": "I", 
+            "leaves": [], 
+            "height": 14, 
+            "class": "ct", 
+            "left": 64
+        }, 
+        {
+            "top": 1378, 
+            "id": "", 
+            "width": 48, 
+            "tag": "SPAN", 
+            "leaves": [], 
+            "height": 2, 
+            "class": "ct", 
+            "left": 14
+        }
+    ], 
+    "height": 34, 
+    "class": " cur", 
+    "left": 11
+}

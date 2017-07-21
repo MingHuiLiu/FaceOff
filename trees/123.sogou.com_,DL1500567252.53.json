@@ -1,0 +1,93 @@
+{
+    "index": "DL1500567252.53", 
+    "top": 3098, 
+    "id": "", 
+    "width": 214, 
+    "tag": "DL", 
+    "leaves": [
+        {
+            "top": 3098, 
+            "id": "", 
+            "width": 214, 
+            "tag": "DT", 
+            "leaves": [
+                {
+                    "top": 3099, 
+                    "id": "", 
+                    "width": 12, 
+                    "tag": "I", 
+                    "leaves": [], 
+                    "height": 12, 
+                    "class": "", 
+                    "left": 737
+                }
+            ], 
+            "height": 20, 
+            "class": "", 
+            "left": 737
+        }, 
+        {
+            "top": 3118, 
+            "id": "", 
+            "width": 106, 
+            "tag": "DD", 
+            "leaves": [], 
+            "height": 92, 
+            "class": "", 
+            "left": 737
+        }, 
+        {
+            "top": 3118, 
+            "id": "", 
+            "width": 106, 
+            "tag": "DD", 
+            "leaves": [], 
+            "height": 92, 
+            "class": "", 
+            "left": 844
+        }, 
+        {
+            "top": 3210, 
+            "id": "", 
+            "width": 106, 
+            "tag": "DD", 
+            "leaves": [], 
+            "height": 92, 
+            "class": "", 
+            "left": 737
+        }, 
+        {
+            "top": 3210, 
+            "id": "", 
+            "width": 106, 
+            "tag": "DD", 
+            "leaves": [], 
+            "height": 92, 
+            "class": "", 
+            "left": 844
+        }, 
+        {
+            "top": 3302, 
+            "id": "", 
+            "width": 106, 
+            "tag": "DD", 
+            "leaves": [], 
+            "height": 92, 
+            "class": "", 
+            "left": 737
+        }, 
+        {
+            "top": 3302, 
+            "id": "", 
+            "width": 106, 
+            "tag": "DD", 
+            "leaves": [], 
+            "height": 92, 
+            "class": "", 
+            "left": 844
+        }
+    ], 
+    "height": 296, 
+    "class": "col-3", 
+    "left": 737
+}

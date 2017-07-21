@@ -1,0 +1,84 @@
+{
+    "index": "DIV1500567333.23", 
+    "top": 425, 
+    "id": "", 
+    "width": 705, 
+    "tag": "DIV", 
+    "leaves": [
+        {
+            "top": 425, 
+            "id": "startRead", 
+            "width": 123, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 30, 
+            "class": "btn btn-read", 
+            "left": 223
+        }, 
+        {
+            "top": 425, 
+            "id": "", 
+            "width": 123, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 30, 
+            "class": "btn btn-toc", 
+            "left": 356
+        }, 
+        {
+            "top": 425, 
+            "id": "addToShelf", 
+            "width": 123, 
+            "tag": "A", 
+            "leaves": [], 
+            "height": 30, 
+            "class": "btn btn-toc", 
+            "left": 489
+        }, 
+        {
+            "top": 425, 
+            "id": "showPhone", 
+            "width": 91, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 431, 
+                    "id": "", 
+                    "width": 12, 
+                    "tag": "I", 
+                    "leaves": [], 
+                    "height": 21, 
+                    "class": "icon", 
+                    "left": 637
+                }
+            ], 
+            "height": 30, 
+            "class": "mobile", 
+            "left": 622
+        }, 
+        {
+            "top": 425, 
+            "id": "showShare", 
+            "width": 91, 
+            "tag": "A", 
+            "leaves": [
+                {
+                    "top": 431, 
+                    "id": "", 
+                    "width": 18, 
+                    "tag": "I", 
+                    "leaves": [], 
+                    "height": 21, 
+                    "class": "icon", 
+                    "left": 738
+                }
+            ], 
+            "height": 30, 
+            "class": "share", 
+            "left": 723
+        }
+    ], 
+    "height": 30, 
+    "class": "btns", 
+    "left": 223
+}
